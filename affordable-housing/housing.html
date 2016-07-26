@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<html>
+<body>
+
+<h2>AFFORDABLE PROPERTIES IN SAN JOSE</h2><script>
+function loadDoc(streetName, street, streetType) {
+  var xhttp = new XMLHttpRequest();
+  
+
+var settings = {
+  "async": true,
+  "crossDomain": true,
+  "url": "http://www3.sanjoseca.gov/codeEnforcement/cets/New_ces_Results.asp",
+  "method": "POST",
+  "headers": {
+    "accept-language": "en-us",
+    "content-type": "application/x-www-form-urlencoded; Charset=UTF-8",
+    "Access-Control-Allow-Origin" : "http://localhost"
+  },
+  "data": "PropHouse=" + streetName + "&PropStreet=" + street + "&PropStreetType=" + streetType
+}
+
+$.ajax(settings).done(function (response) {
+  console.log(response);
+
+});
+
+}
+</script><style>
+    td, th {
+                border: 1px solid #999;
+                    padding: 0.5rem;
+                    }
+    </style><body><table><tr><th>Coming Soon</th><th></th><th></th><th></th><th></th><th></th></tr><tr><td>#</td><td>Development Name</td><td>Address</td><td>Property Website</td><td>Management Company</td><td>Public Phone #</td><td>Code Violations</td></tr>
+<tr><td>1</td><td>Ascent Apartments</td><td><a href="http://maps.google.com/?q=5805 Charlotte Drive San Jose, CA">5805 Charlotte Drive</a></td>
+<td><a href="http://www.ascentaffordable.com/">Link</a></td>
+<td>N/A</td><td>(408) 225-7200</td><td><A HREF=javascript:loadDoc('5805','Charlotte','DR')>Link</A></td>
+</tr>
+<tr><td>2</td><td>Charlotte Drive Family Apartments</td><td><a href="http://maps.google.com/?q=5600 Charlotte Drive San Jose, CA">5600 Charlotte Drive</a></td>
+<td>No website</td><td>N/A</td><td>(408) 226-5822</td><td><A HREF=javascript:loadDoc('5600','Charlotte','DR')>Link</A></td>
+</tr>
+<tr><td>3</td><td>Donner Lofts</td><td><a href="http://maps.google.com/?q=156 E. St. John St. at 4th San Jose, CA">156 E. St. John St. at 4th</a></td>
+<td><a href="http://property.midpen-housing.org/LeasingNow">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(650) 356-2900</td><td><A HREF=javascript:loadDoc('156','E.','St.')>Link</A></td>
+</tr>
+<tr><td>4</td><td>Lexington Apartments - ROEM</td><td><a href="http://maps.google.com/?q=Lexington Ave & Great Oaks Pkwy San Jose, CA">Lexington Ave & Great Oaks Pkwy</a></td>
+<td><a href="http://www.roemcorp.com/find-a-home/">Link</a></td>
+<td>N/A</td><td>(408) 984-5600</td><td><A HREF=javascript:loadDoc('Lexington','Ave','&')>Link</A></td>
+</tr>
+<tr><td>5</td><td>The Metropolitan (North Phase)</td><td><a href="http://maps.google.com/?q=2112 Monterey Road San Jose, CA">2112 Monterey Road</a></td>
+<td><a href="http://charitieshousing.org/2112-monterey/">Link</a></td>
+<td></td><td>(408) 550-8300</td><td><A HREF=javascript:loadDoc('2112','Monterey','RD')>Link</A></td>
+</tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Family Housing</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>#</td><td>Development Name</td><td>Address</td><td>Property Website</td><td>Management Company</td><td>Public Phone #</td></tr>
+<tr><td>1</td><td>101 San Fernando</td><td><a href="http://maps.google.com/?q=101 E.San Fernando St, Ste 100 San Jose, CA">101 E.San Fernando St, Ste 100</a></td>
+<td><a href="http://www.essexapartmenthomes.com/apartment/101-san-fernando-san-jose-ca-5d0248854567">Link</a></td>
+<td>Forest City Residential</td><td>(866) 700-0404</td><td><A HREF=javascript:loadDoc('101','E.San','Fernando')>Link</A></td>
+</tr>
+<tr><td>2</td><td>127 and 110 #22 Roundtable - NSP</td><td><a href="http://maps.google.com/?q=110, bldg 22, 127 Roundtable Dr. San Jose, CA">110, bldg 22, 127 Roundtable Dr.</a></td>
+<td><a href="http://streetsteam.org/">Link</a></td>
+<td>Downtown Streets Team</td><td>(650) 833-8663</td><td><A HREF=javascript:loadDoc('110,','bldg','22,')>Link</A></td>
+</tr>
+<tr><td>3</td><td>1713 Ross</td><td><a href="http://maps.google.com/?q=1713 Ross Circle San Jose, CA">1713 Ross Circle</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1713','Ross','CL')>Link</A></td>
+</tr>
+<tr><td>4</td><td>1726 Ross</td><td><a href="http://maps.google.com/?q=1726 Ross Circle San Jose, CA">1726 Ross Circle</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1726','Ross','CL')>Link</A></td>
+</tr>
+<tr><td>5</td><td>1731 Ross</td><td><a href="http://maps.google.com/?q=1731 Ross Circle San Jose, CA">1731 Ross Circle</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1731','Ross','CL')>Link</A></td>
+</tr>
+<tr><td>6</td><td>Almaden 1930</td><td><a href="http://maps.google.com/?q=1930 Almaden San Jose, CA">1930 Almaden</a></td>
+<td><a href="http://www.kdfcommunities.com/kdfcommunities.html">Link</a></td>
+<td>N/A</td><td>(408) 264-1930</td><td><A HREF=javascript:loadDoc('1930','Almaden','')>Link</A></td>
+</tr>
+<tr><td>7</td><td>Almaden Family Apartments</td><td><a href="http://maps.google.com/?q=1501 Almaden Road San Jose, CA">1501 Almaden Road</a></td>
+<td><a href="http://www.laspalmashousing.com/almaden-family/">Link</a></td>
+<td>ConAm Management</td><td>(408) 275-1922</td><td><A HREF=javascript:loadDoc('1501','Almaden','RD')>Link</A></td>
+</tr>
+<tr><td>8</td><td>Almaden Garden Apartments</td><td><a href="http://maps.google.com/?q=947 Branham Lane, #C San Jose, CA">947 Branham Lane, #C</a></td>
+<td><a href="http://www.dkdproperties.com/south%20bay.htm">Link</a></td>
+<td>DKD Property Management Company</td><td>(408) 323-8020</td><td><A HREF=javascript:loadDoc('947','Branham','Lane,')>Link</A></td>
+</tr>
+<tr><td>9</td><td>Almaden Lake Apartments</td><td><a href="http://maps.google.com/?q=978 Almaden Lake Drive and Winfield Boulevard San Jose, CA">978 Almaden Lake Drive and Winfield Boulevard</a></td>
+<td><a href="http://www.bridgehousing.com/properties/family/santa-clara/san-jose/almaden-lake">Link</a></td>
+<td>Seven Hills Properties</td><td>(408) 323-8020</td><td><A HREF=javascript:loadDoc('978','Almaden','Lake')>Link</A></td>
+</tr>
+<tr><td>10</td><td>Almaden Lake Village</td><td><a href="http://maps.google.com/?q=1045 Coleman Road San Jose, CA">1045 Coleman Road</a></td>
+<td><a href="http://www.almadenlakevillage.com/">Link</a></td>
+<td>UDR</td><td>(866) 491-6640</td><td><A HREF=javascript:loadDoc('1045','Coleman','RD')>Link</A></td>
+</tr>
+<tr><td>11</td><td>Anton La Moraga Apartments</td><td><a href="http://maps.google.com/?q=5822 Charlotte Drive San Jose, CA">5822 Charlotte Drive</a></td>
+<td><a href="http://www.antonlamoraga.com/">Link</a></td>
+<td>St. Anton Multifamily</td><td>(408) 226-5822</td><td><A HREF=javascript:loadDoc('5822','Charlotte','DR')>Link</A></td>
+</tr>
+<tr><td>12</td><td>Arbor Apartments</td><td><a href="http://maps.google.com/?q=1582 Kooser Road San Jose, CA">1582 Kooser Road</a></td>
+<td><a href="http://www.dkdproperties.com/south%20bay.htm">Link</a></td>
+<td>DKD Property Management Company</td><td>(408) 448-1288</td><td><A HREF=javascript:loadDoc('1582','Kooser','RD')>Link</A></td>
+</tr>
+<tr><td>13</td><td>Arbor Park Community</td><td><a href="http://maps.google.com/?q=899 North King Road San Jose, CA">899 North King Road</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 272-1588</td><td><A HREF=javascript:loadDoc('899','North','King')>Link</A></td>
+</tr>
+<tr><td>14</td><td>Archer Studios</td><td><a href="http://maps.google.com/?q=98 Archer Street San Jose, CA">98 Archer Street</a></td>
+<td><a href="http://charitieshousing.org/archer-street/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 550-8300</td><td><A HREF=javascript:loadDoc('98','Archer','ST')>Link</A></td>
+</tr>
+<tr><td>15</td><td>Art Ark</td><td><a href="http://maps.google.com/?q=1058 S.5th Street San Jose, CA">1058 S.5th Street</a></td>
+<td><a href="http://www.artarkapts.com/">Link</a></td>
+<td>EAH,Inc.</td><td>(877) 259-1439</td><td><A HREF=javascript:loadDoc('1058','S.5th','ST')>Link</A></td>
+</tr>
+<tr><td>16</td><td>Baker Park</td><td><a href="http://maps.google.com/?q=4748 Campbell Avenue and Fallbrook Drive San Jose, CA">4748 Campbell Avenue and Fallbrook Drive</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 379-8440</td><td><A HREF=javascript:loadDoc('4748','Campbell','AV')>Link</A></td>
+</tr>
+<tr><td>17</td><td>Barker</td><td><a href="http://maps.google.com/?q=3825 Barker Drive San Jose, CA">3825 Barker Drive</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('3825','Barker','DR')>Link</A></td>
+</tr>
+<tr><td>18</td><td>Bella Castello</td><td><a href="http://maps.google.com/?q=570 Keyes St San Jose, CA">570 Keyes St</a></td>
+<td><a href="http://www.roemcorp.com/projects/bella-castello/">Link</a></td>
+<td>FPI Management</td><td>(408) 289-1122</td><td><A HREF=javascript:loadDoc('570','Keyes','St')>Link</A></td>
+</tr>
+<tr><td>19</td><td>Bendorf Drive Apts.</td><td><a href="http://maps.google.com/?q=282 Danze Drive San Jose, CA">282 Danze Drive</a></td>
+<td><a href="http://jsco.net/city/san-jose/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 362-9233</td><td><A HREF=javascript:loadDoc('282','Danze','DR')>Link</A></td>
+</tr>
+<tr><td>20</td><td>Betty Anne Gardens</td><td><a href="http://maps.google.com/?q=945 Lundy Ave San Jose, CA">945 Lundy Ave</a></td>
+<td><a href="http://www.bettyanngardens.org/">Link</a></td>
+<td>Westlake Realty Group, Inc.</td><td>(408) 254-4540</td><td><A HREF=javascript:loadDoc('945','Lundy','Ave')>Link</A></td>
+</tr>
+<tr><td>21</td><td>Blossom River</td><td><a href="http://maps.google.com/?q=1000 Blossom River Way San Jose, CA">1000 Blossom River Way</a></td>
+<td><a href="http://jsco.net/city/san-jose/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 979-9442</td><td><A HREF=javascript:loadDoc('1000','Blossom','River')>Link</A></td>
+</tr>
+<tr><td>22</td><td>Branham</td><td><a href="http://maps.google.com/?q=1579 Branham Lane San Jose, CA">1579 Branham Lane</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1579','Branham','LN')>Link</A></td>
+</tr>
+<tr><td>23</td><td>Bridgeport Apartments</td><td><a href="http://maps.google.com/?q=3678 Bridgeport Court San Jose, CA">3678 Bridgeport Court</a></td>
+<td><a href="http://www.communityhousingsv.org">Link</a></td>
+<td>C.H.D. PMS</td><td>(408) 279-7654</td><td><A HREF=javascript:loadDoc('3678','Bridgeport','CT')>Link</A></td>
+</tr>
+<tr><td>24</td><td>Brookwood Terrace Family Apartments</td><td><a href="http://maps.google.com/?q=1346 E San Antonio St San Jose, CA">1346 E San Antonio St</a></td>
+<td><a href="http://www.roemcorp.com/projects/brookwood-terrace/">Link</a></td>
+<td>FPI Management</td><td>(408) 279-5700</td><td><A HREF=javascript:loadDoc('1346','E','San')>Link</A></td>
+</tr>
+<tr><td>25</td><td>Burning Tree</td><td><a href="http://maps.google.com/?q=239 Burning Tree San Jose, CA">239 Burning Tree</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('239','Burning','Tree')>Link</A></td>
+</tr>
+<tr><td>26</td><td>Calvin</td><td><a href="http://maps.google.com/?q=3456 Calvin Avenue San Jose, CA">3456 Calvin Avenue</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('3456','Calvin','AV')>Link</A></td>
+</tr>
+<tr><td>27</td><td>Canoas Terrace</td><td><a href="http://maps.google.com/?q=420 Sands Drive San Jose, CA">420 Sands Drive</a></td>
+<td><a href="www.fpiliving.com">Link</a></td>
+<td>FPI Management, Inc.</td><td>(408) 448-1592</td><td><A HREF=javascript:loadDoc('420','Sands','DR')>Link</A></td>
+</tr>
+<tr><td>28</td><td>Cape Cod Court</td><td><a href="http://maps.google.com/?q=3680 Cape Cod Court San Jose, CA">3680 Cape Cod Court</a></td>
+<td><a href="">Link</a></td>
+<td>NOI Holdings 20 LP</td><td></td><td><A HREF=javascript:loadDoc('3680','Cape','Cod')>Link</A></td>
+</tr>
+<tr><td>29</td><td>Capitol Manor</td><td><a href="http://maps.google.com/?q=175 N. Capitol Avenue San Jose, CA">175 N. Capitol Avenue</a></td>
+<td><a href="http://www.capitolmanor.net/">Link</a></td>
+<td>ALTON MANAGEMENT CORPORATION</td><td>(408) 251-9132</td><td><A HREF=javascript:loadDoc('175','N.','Capitol')>Link</A></td>
+</tr>
+<tr><td>30</td><td>Casa Real</td><td><a href="http://maps.google.com/?q=2570 Fontaine Rd. San Jose, CA">2570 Fontaine Rd.</a></td>
+<td>No website</td><td>KDF Communities LLC</td><td>(408) 238-0841</td><td><A HREF=javascript:loadDoc('2570','Fontaine','Rd.')>Link</A></td>
+</tr>
+<tr><td>31</td><td>Catalonia</td><td><a href="http://maps.google.com/?q=2036 Evans Lane east side San Jose, CA">2036 Evans Lane east side</a></td>
+<td><a href="http://www.edenhousing.org/property-search">Link</a></td>
+<td>Eden Housing Management</td><td>(408) 264-0784</td><td><A HREF=javascript:loadDoc('2036','Evans','LN')>Link</A></td>
+</tr>
+<tr><td>32</td><td>Chai House II</td><td><a href="http://maps.google.com/?q=814 St Elizabeth Dr San Jose, CA">814 St Elizabeth Dr</a></td>
+<td><a href="http://jsco.net/city/san-jose/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 947-1818</td><td><A HREF=javascript:loadDoc('814','St','Elizabeth')>Link</A></td>
+</tr>
+<tr><td>33</td><td>Charter Court Apartments</td><td><a href="http://maps.google.com/?q=2570 Fontaine Rd. San Jose, CA">2570 Fontaine Rd.</a></td>
+<td><a href="http://www.mynewplace.com/apartment/charter-court-apartments-san-jose-ca-0gw207628635#property_details">Link</a></td>
+<td>Charter Court SJC LP, a California limited parthership, Owner</td><td>(408) 241-1146</td><td><A HREF=javascript:loadDoc('2570','Fontaine','Rd.')>Link</A></td>
+</tr>
+<tr><td>34</td><td>Cherry Creek</td><td><a href="http://maps.google.com/?q=2020 Southwest Expressway San Jose, CA">2020 Southwest Expressway</a></td>
+<td><a href="http://www.mynewplace.com/apartment/cherry-creek-san-jose-ca-80c000143566">Link</a></td>
+<td>Charter Court SJC LP, a California limited parthership, Owner</td><td>(408) 287-6274</td><td><A HREF=javascript:loadDoc('2020','Southwest','EX')>Link</A></td>
+</tr>
+<tr><td>35</td><td>Cinnabar Commons</td><td><a href="http://maps.google.com/?q=875 Cinnabar St (Stockton Ave@Lenzen Ave) San Jose, CA">875 Cinnabar St (Stockton Ave@Lenzen Ave)</a></td>
+<td>No website</td><td>BRIDGE TOWER, LLC</td><td>(408) 289-1010</td><td><A HREF=javascript:loadDoc('875','Cinnabar','St')>Link</A></td>
+</tr>
+<tr><td>36</td><td>Clarendon</td><td><a href="http://maps.google.com/?q=7213 Clarendon St. San Jose, CA">7213 Clarendon St.</a></td>
+<td><a href="http://jsco.net/city/san-jose/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 366-2114</td><td><A HREF=javascript:loadDoc('7213','Clarendon','St.')>Link</A></td>
+</tr>
+<tr><td>37</td><td>Colonnade</td><td><a href="http://maps.google.com/?q=201 S 4th Street San Jose, CA">201 S 4th Street</a></td>
+<td><a href="http://www.gkind.com/pages/san-jose-and-santa-cruz#Colonnade">Link</a></td>
+<td>G&K Management Company, Inc.</td><td>(877) 254-7982</td><td><A HREF=javascript:loadDoc('201','S','4th')>Link</A></td>
+</tr>
+<tr><td>38</td><td>Corde Terra Village Family</td><td><a href="http://maps.google.com/?q=2600 Corde Terra Circle San Jose, CA">2600 Corde Terra Circle</a></td>
+<td><a href="http://www.roemcorp.com/projects/corde-terra-village/">Link</a></td>
+<td>FPI Management</td><td>(408) 298-9988</td><td><A HREF=javascript:loadDoc('2600','Corde','Terra')>Link</A></td>
+</tr>
+<tr><td>39</td><td>Cornerstone</td><td><a href="http://maps.google.com/?q=875 N.10th Street San Jose, CA">875 N.10th Street</a></td>
+<td>No website</td><td>EAH,Inc.</td><td>(877) 223-5923</td><td><A HREF=javascript:loadDoc('875','N.10th','ST')>Link</A></td>
+</tr>
+<tr><td>40</td><td>Country Hills Apartments</td><td><a href="http://maps.google.com/?q=124 Rancho Drive San Jose, CA">124 Rancho Drive</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 578-8441</td><td><A HREF=javascript:loadDoc('124','Rancho','DR')>Link</A></td>
+</tr>
+<tr><td>41</td><td>Courtyard Plaza Apartments</td><td><a href="http://maps.google.com/?q=2950 Story Road San Jose, CA">2950 Story Road</a></td>
+<td><a href="http://www.affordablesearch.com/apartments/Listing.aspx?id=48">Link</a></td>
+<td>FPI Management</td><td>(408)Â 929-4221</td><td><A HREF=javascript:loadDoc('2950','Story','RD')>Link</A></td>
+</tr>
+<tr><td>42</td><td>Curtner</td><td><a href="http://maps.google.com/?q=1824 Curtner Avenue San Jose, CA">1824 Curtner Avenue</a></td>
+<td><a href="http://www.abodeservices.org">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1824','Curtner','AV')>Link</A></td>
+</tr>
+<tr><td>43</td><td>David Avenue Apartments</td><td><a href="http://maps.google.com/?q=3068 David Avenue San Jose, CA">3068 David Avenue</a></td>
+<td>No website</td><td>KDF Communities LLC</td><td>(408) 374-0411</td><td><A HREF=javascript:loadDoc('3068','David','AV')>Link</A></td>
+</tr>
+<tr><td>44</td><td>Delmas Park</td><td><a href="http://maps.google.com/?q=350 Bird Avenue San Jose, CA">350 Bird Avenue</a></td>
+<td><a href="http://www.delmasparkapts.com/">Link</a></td>
+<td>EAH,Inc.</td><td>(877) 276-7171</td><td><A HREF=javascript:loadDoc('350','Bird','AV')>Link</A></td>
+</tr>
+<tr><td>45</td><td>Dent Commons</td><td><a href="http://maps.google.com/?q=5363 Dent Ave San Jose, CA">5363 Dent Ave</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 267-4230</td><td><A HREF=javascript:loadDoc('5363','Dent','Ave')>Link</A></td>
+</tr>
+<tr><td>46</td><td>Don de Dios</td><td><a href="http://maps.google.com/?q=987 Fair Avenue San Jose, CA">987 Fair Avenue</a></td>
+<td><a href="http://www.eahhousing.org/pages/featureddevelopmentdetail/76">Link</a></td>
+<td>EAH Management</td><td>(408) 288-7770</td><td><A HREF=javascript:loadDoc('987','Fair','AV')>Link</A></td>
+</tr>
+<tr><td>47</td><td>Donna</td><td><a href="http://maps.google.com/?q=1794 Donna Lane San Jose, CA">1794 Donna Lane</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1794','Donna','LN')>Link</A></td>
+</tr>
+<tr><td>48</td><td>Eden Palms</td><td><a href="http://maps.google.com/?q=5398 Monterey Road San Jose, CA">5398 Monterey Road</a></td>
+<td><a href="http://www.edenhousing.org/property-search">Link</a></td>
+<td>Eden Housing Management</td><td>(408) 227-5684</td><td><A HREF=javascript:loadDoc('5398','Monterey','RD')>Link</A></td>
+</tr>
+<tr><td>49</td><td>El Rancho Verde</td><td><a href="http://maps.google.com/?q=300 Checkers Drive San Jose, CA">300 Checkers Drive</a></td>
+<td><a href="http://www.related.com/ourcompany/properties/49/El-Rancho-Verde-Apartments/">Link</a></td>
+<td>Clark Realty Management</td><td>(408) 272-0356</td><td><A HREF=javascript:loadDoc('300','Checkers','DR')>Link</A></td>
+</tr>
+<tr><td>50</td><td>Elena Gardens</td><td><a href="http://maps.google.com/?q=1900 Lakewood Drive San Jose, CA">1900 Lakewood Drive</a></td>
+<td><a href="http://www.eahhousing.org/pages/featureddevelopmentdetail/81">Link</a></td>
+<td>EAH,Inc.</td><td>(408) 262-6991</td><td><A HREF=javascript:loadDoc('1900','Lakewood','DR')>Link</A></td>
+</tr>
+<tr><td>51</td><td>Emmanuel Terrace</td><td><a href="http://maps.google.com/?q=460 Francis Drive San Jose, CA">460 Francis Drive</a></td>
+<td>No website</td><td>Emmanuel Terrace Inc.</td><td>(408) 923-8280</td><td><A HREF=javascript:loadDoc('460','Francis','DR')>Link</A></td>
+</tr>
+<tr><td>52</td><td>Enclave</td><td><a href="http://maps.google.com/?q=4349 RENAISSANCE DR San Jose, CA">4349 RENAISSANCE DR</a></td>
+<td><a href="http://www.enclaveapartmenthomes.com">Link</a></td>
+<td>Berkshire</td><td>(408) 428-9156</td><td><A HREF=javascript:loadDoc('4349','RENAISSANCE','DR')>Link</A></td>
+</tr>
+<tr><td>53</td><td>Fairway Glen</td><td><a href="http://maps.google.com/?q=488 Toyon Ave San Jose, CA">488 Toyon Ave</a></td>
+<td><a href="http://www.fairwayglen.com/">Link</a></td>
+<td>Prime Group</td><td>(408) 926-3100</td><td><A HREF=javascript:loadDoc('488','Toyon','Ave')>Link</A></td>
+</tr>
+<tr><td>54</td><td>Fairways at San Antonio</td><td><a href="http://maps.google.com/?q=305 San Antonio Court San Jose, CA">305 San Antonio Court</a></td>
+<td><a href="http://affirmedhousing.com/projects/fairways/index.html">Link</a></td>
+<td>Affirmed Housing Group</td><td>(408) 923-8424</td><td><A HREF=javascript:loadDoc('305','San','Antonio')>Link</A></td>
+</tr>
+<tr><td>55</td><td>Ford Road Plaza</td><td><a href="http://maps.google.com/?q=215 Ford Road San Jose, CA">215 Ford Road</a></td>
+<td><a href="http://www.edenhousing.org/property-search">Link</a></td>
+<td>Eden Housing Management</td><td>(510) 582-1460</td><td><A HREF=javascript:loadDoc('215','Ford','RD')>Link</A></td>
+</tr>
+<tr><td>56</td><td>Fountain Plaza</td><td><a href="http://maps.google.com/?q=190 Ryland Street San Jose, CA">190 Ryland Street</a></td>
+<td>No website</td><td>Legacy Partners</td><td>(408) 288-9100</td><td><A HREF=javascript:loadDoc('190','Ryland','ST')>Link</A></td>
+</tr>
+<tr><td>57</td><td>Foxchase Drive Apartments</td><td><a href="http://maps.google.com/?q=1070 Foxchase Drive San Jose, CA">1070 Foxchase Drive</a></td>
+<td><a href="http://www.kcmapts.com/foxchase">Link</a></td>
+<td>Klingbeil Capital Management Ltd</td><td>(408) 723-0600</td><td><A HREF=javascript:loadDoc('1070','Foxchase','DR')>Link</A></td>
+</tr>
+<tr><td>58</td><td>Foxdale Manor</td><td><a href="http://maps.google.com/?q=1250 Foxdale Loop San Jose, CA">1250 Foxdale Loop</a></td>
+<td>No website</td><td>KDF Communities LLC</td><td>(408) 251-1142</td><td><A HREF=javascript:loadDoc('1250','Foxdale','LP')>Link</A></td>
+</tr>
+<tr><td>59</td><td>Fuji Towers</td><td><a href="http://maps.google.com/?q=690 North 5th Street San Jose, CA">690 North 5th Street</a></td>
+<td><a href="http://www.japantownsanjose.org/fujitowers.html">Link</a></td>
+<td>Fuji Towers</td><td>(408) 275-8989</td><td><A HREF=javascript:loadDoc('690','North','5th')>Link</A></td>
+</tr>
+<tr><td>60</td><td>Giovanni</td><td><a href="http://maps.google.com/?q=85 S. 5th Street San Jose, CA">85 S. 5th Street</a></td>
+<td><a href="http://jsco.net/city/san-jose/page/2/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 288-7436</td><td><A HREF=javascript:loadDoc('85','S.','5th')>Link</A></td>
+</tr>
+<tr><td>61</td><td>Gish Apartments</td><td><a href="http://maps.google.com/?q=35 E. Gish Rd San Jose, CA">35 E. Gish Rd</a></td>
+<td><a href="http://www.gishapartments.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 436-8972</td><td><A HREF=javascript:loadDoc('35','E.','Gish')>Link</A></td>
+</tr>
+<tr><td>62</td><td>Helzer Court</td><td><a href="http://maps.google.com/?q=2960 MacIntyre Drive San Jose, CA">2960 MacIntyre Drive</a></td>
+<td><a href="http://fpihacsc.com/property/helzer-courts/">Link</a></td>
+<td>FPI Management</td><td>(408) 264-3237</td><td><A HREF=javascript:loadDoc('2960','MacIntyre','DR')>Link</A></td>
+</tr>
+<tr><td>63</td><td>Hillsdale Townhomes</td><td><a href="http://maps.google.com/?q=1626-1656 Hillsdale Ave San Jose, CA">1626-1656 Hillsdale Ave</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 267-4230</td><td><A HREF=javascript:loadDoc('1626-1656','Hillsdale','Ave')>Link</A></td>
+</tr>
+<tr><td>64</td><td>Hillview Glen</td><td><a href="http://maps.google.com/?q=3220 Pearl Avenue San Jose, CA">3220 Pearl Avenue</a></td>
+<td><a href="http://www.edenhousing.org/property-search">Link</a></td>
+<td>Eden Housing Management</td><td>(408) 723-1644</td><td><A HREF=javascript:loadDoc('3220','Pearl','AV')>Link</A></td>
+</tr>
+<tr><td>65</td><td>Huff Gardens</td><td><a href="http://maps.google.com/?q=3021 Huff Avenue San Jose, CA">3021 Huff Avenue</a></td>
+<td><a href="http://fpihacsc.com/property/huff-gardens/">Link</a></td>
+<td>FPI Management</td><td>(408) 557-8699</td><td><A HREF=javascript:loadDoc('3021','Huff','AV')>Link</A></td>
+</tr>
+<tr><td>66</td><td>Italian Gardens</td><td><a href="http://maps.google.com/?q=1524 Almaden Road San Jose, CA">1524 Almaden Road</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 293-9118</td><td><A HREF=javascript:loadDoc('1524','Almaden','RD')>Link</A></td>
+</tr>
+<tr><td>67</td><td>Julian Gardens</td><td><a href="http://maps.google.com/?q=319 North 8th Street San Jose, CA">319 North 8th Street</a></td>
+<td><a href="http://jsco.net/city/san-jose/page/2/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 295-8440</td><td><A HREF=javascript:loadDoc('319','North','8th')>Link</A></td>
+</tr>
+<tr><td>68</td><td>Kings Crossing</td><td><a href="http://maps.google.com/?q=678 North King Road San Jose, CA">678 North King Road</a></td>
+<td><a href="http://charitieshousing.org/kings-crossing-apartments/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 564-5016</td><td><A HREF=javascript:loadDoc('678','North','King')>Link</A></td>
+</tr>
+<tr><td>69</td><td>La Fenetre</td><td><a href="http://maps.google.com/?q=705 Northrup Street and Parkmoor Avenue San Jose, CA">705 Northrup Street and Parkmoor Avenue</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408)Â 295-2066</td><td><A HREF=javascript:loadDoc('705','Northrup','ST')>Link</A></td>
+</tr>
+<tr><td>70</td><td>Las Casitas</td><td><a href="http://maps.google.com/?q=632 N. Jackson Ave. San Jose, CA">632 N. Jackson Ave.</a></td>
+<td><a href="http://www.dkdproperties.com/south%20bay.htm">Link</a></td>
+<td>DKD Property Management Company</td><td>(408) 251-6850</td><td><A HREF=javascript:loadDoc('632','N.','Jackson')>Link</A></td>
+</tr>
+<tr><td>71</td><td>Las Ventanas</td><td><a href="http://maps.google.com/?q=1800 Evans Lane San Jose, CA">1800 Evans Lane</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 265-9300</td><td><A HREF=javascript:loadDoc('1800','Evans','LN')>Link</A></td>
+</tr>
+<tr><td>72</td><td>Lexington Apartments</td><td><a href="http://maps.google.com/?q=1350 Lexington Dr. San Jose, CA">1350 Lexington Dr.</a></td>
+<td>No website</td><td>N/A</td><td>N/A</td><td><A HREF=javascript:loadDoc('1350','Lexington','Dr.')>Link</A></td>
+</tr>
+<tr><td>73</td><td>Lion Villas</td><td><a href="http://maps.google.com/?q=2550 S. King Rd. San Jose, CA">2550 S. King Rd.</a></td>
+<td><a href="http://www.lionvillas.com/">Link</a></td>
+<td>Pap Lion Villas LLC</td><td>(408) 274-7983</td><td><A HREF=javascript:loadDoc('2550','S.','King')>Link</A></td>
+</tr>
+<tr><td>74</td><td>Lucretia Gardens</td><td><a href="http://maps.google.com/?q=2020 Lucretia Ave. San Jose, CA">2020 Lucretia Ave.</a></td>
+<td><a href="http://jsco.net/property/lucretia-gardens/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 295-8440</td><td><A HREF=javascript:loadDoc('2020','Lucretia','Ave.')>Link</A></td>
+</tr>
+<tr><td>75</td><td>Market Gateway Housing</td><td><a href="http://maps.google.com/?q=535 S.Market St San Jose, CA">535 S.Market St</a></td>
+<td><a href="http://www.marketgatewayapts.com/">Link</a></td>
+<td>EAH,Inc.</td><td>(877) 298-7852</td><td><A HREF=javascript:loadDoc('535','S.Market','St')>Link</A></td>
+</tr>
+<tr><td>76</td><td>Masson Building Rehabilitation Project</td><td><a href="http://maps.google.com/?q=161 West Santa Clara Street San Jose, CA">161 West Santa Clara Street</a></td>
+<td><a href="N/A">Link</a></td>
+<td>N/A</td><td>N/A</td><td><A HREF=javascript:loadDoc('161','West','Santa')>Link</A></td>
+</tr>
+<tr><td>77</td><td>Mayfair Court Apartments</td><td><a href="http://maps.google.com/?q=65 McCreery Ave San Jose, CA">65 McCreery Ave</a></td>
+<td><a href="http://mayfair.pwapt.com/">Link</a></td>
+<td>USA Property Management</td><td>(408) 457-3976</td><td><A HREF=javascript:loadDoc('65','McCreery','Ave')>Link</A></td>
+</tr>
+<tr><td>78</td><td>Mayfair Golden Manor</td><td><a href="http://maps.google.com/?q=2627 Madden Avenue San Jose, CA">2627 Madden Avenue</a></td>
+<td>No website</td><td>Mayfair Golden Manor Inc.</td><td>(408) 272-1800</td><td><A HREF=javascript:loadDoc('2627','Madden','AV')>Link</A></td>
+</tr>
+<tr><td>79</td><td>Miraido Village Mixed-use Project</td><td><a href="http://maps.google.com/?q=566 N. 6th Street San Jose, CA">566 N. 6th Street</a></td>
+<td><a href="http://www.miraidovillageapartments.com/san-jose-ca-apartments.asp">Link</a></td>
+<td>Evans Property Management, Inc.</td><td>(408) 297-0990</td><td><A HREF=javascript:loadDoc('566','N.','6th')>Link</A></td>
+</tr>
+<tr><td>80</td><td>Monte Alban</td><td><a href="http://maps.google.com/?q=1324 Santee Dr San Jose, CA">1324 Santee Dr</a></td>
+<td><a href="http://jsco.net/property/monte-alban-apartments/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 286-1903</td><td><A HREF=javascript:loadDoc('1324','Santee','Dr')>Link</A></td>
+</tr>
+<tr><td>81</td><td>Monte Vista Gardens</td><td><a href="http://maps.google.com/?q=2601 Nuestra Castillo Court San Jose, CA">2601 Nuestra Castillo Court</a></td>
+<td><a href="https://www.jamboreehousing.com/affordable-housing-communities/properties-list/monte-vista-gardens?vwr-type=Partner">Link</a></td>
+<td>Jamboree Housing Corp</td><td>(408) 923-3200</td><td><A HREF=javascript:loadDoc('2601','Nuestra','Castillo')>Link</A></td>
+</tr>
+<tr><td>82</td><td>Monterey Family Apartments</td><td><a href="http://maps.google.com/?q=2774 Monterey Road San Jose, CA">2774 Monterey Road</a></td>
+<td><a href="http://www.globalpremierdevelopment.com/completed_projects.html">Link</a></td>
+<td>Buckingham Property Mgt</td><td>(408) 629-5303</td><td><A HREF=javascript:loadDoc('2774','Monterey','RD')>Link</A></td>
+</tr>
+<tr><td>83</td><td>Monterey Grove</td><td><a href="http://maps.google.com/?q=6100 Monterey Rd San Jose, CA">6100 Monterey Rd</a></td>
+<td><a href="http://www.montereygrove.com/">Link</a></td>
+<td>OP Property Management, LP</td><td>(408) 600-3271</td><td><A HREF=javascript:loadDoc('6100','Monterey','Rd')>Link</A></td>
+</tr>
+<tr><td>84</td><td>Moreland Apartments</td><td><a href="http://maps.google.com/?q=4375 Payne Avenue San Jose, CA">4375 Payne Avenue</a></td>
+<td><a href="http://www.dkdproperties.com/south%20bay.htm">Link</a></td>
+<td>DKD Property Management Company</td><td>(408) 554-9585</td><td><A HREF=javascript:loadDoc('4375','Payne','AV')>Link</A></td>
+</tr>
+<tr><td>85</td><td>North Park I-III</td><td><a href="http://maps.google.com/?q=75 Rio Robles East San Jose, CA">75 Rio Robles East</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('75','Rio','Robles')>Link</A></td>
+</tr>
+<tr><td>86</td><td>North Park Las Palmas- The Redwoods</td><td><a href="http://maps.google.com/?q=180 Alicante Drive San Jose, CA">180 Alicante Drive</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('180','Alicante','DR')>Link</A></td>
+</tr>
+<tr><td>87</td><td>North Park Sycamores</td><td><a href="http://maps.google.com/?q=70 Descanso Drive San Jose, CA">70 Descanso Drive</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('70','Descanso','DR')>Link</A></td>
+</tr>
+<tr><td>88</td><td>North Park The Laurels</td><td><a href="http://maps.google.com/?q=155 Estancia Drive San Jose, CA">155 Estancia Drive</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('155','Estancia','DR')>Link</A></td>
+</tr>
+<tr><td>89</td><td>North Park The Oaks</td><td><a href="http://maps.google.com/?q=39 Rio Robles East San Jose, CA">39 Rio Robles East</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('39','Rio','Robles')>Link</A></td>
+</tr>
+<tr><td>90</td><td>North Park The Oaks II</td><td><a href="http://maps.google.com/?q=39 Rio Robles East San Jose, CA">39 Rio Robles East</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('39','Rio','Robles')>Link</A></td>
+</tr>
+<tr><td>91</td><td>North Park The Pines</td><td><a href="http://maps.google.com/?q=70 Descanso Drive San Jose, CA">70 Descanso Drive</a></td>
+<td><a href="https://www.irvinecompanyapartments.com/communities/north-park">Link</a></td>
+<td>Irvine Management Company</td><td>(844) 326-3934</td><td><A HREF=javascript:loadDoc('70','Descanso','DR')>Link</A></td>
+</tr>
+<tr><td>92</td><td>Oak Tree Village</td><td><a href="http://maps.google.com/?q=100 Branham Lane East San Jose, CA">100 Branham Lane East</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 224-2517</td><td><A HREF=javascript:loadDoc('100','Branham','LN')>Link</A></td>
+</tr>
+<tr><td>93</td><td>Ohlone Chynoweth Commons</td><td><a href="http://maps.google.com/?q=5300 Terner Way San Jose, CA">5300 Terner Way</a></td>
+<td><a href="http://www.edenhousing.org/property/ohlone-chynoweth-commons">Link</a></td>
+<td>Eden Housing Management</td><td>(408) 265-9374</td><td><A HREF=javascript:loadDoc('5300','Terner','WY')>Link</A></td>
+</tr>
+<tr><td>94</td><td>Ohlone Court</td><td><a href="http://maps.google.com/?q=5225 Terner Way and Winfield Boulevard San Jose, CA">5225 Terner Way and Winfield Boulevard</a></td>
+<td><a href="http://www.bridgehousing.com/properties/family/santa-clara/san-jose/ohlone">Link</a></td>
+<td>Seven Hills Properties</td><td>(408) 264-5985</td><td><A HREF=javascript:loadDoc('5225','Terner','WY')>Link</A></td>
+</tr>
+<tr><td>95</td><td>Orvieto Family Apartments</td><td><a href="http://maps.google.com/?q=80 Montecito Vista Drive San Jose, CA">80 Montecito Vista Drive</a></td>
+<td><a href="http://www.roemcorp.com/projects/orvieto-family-apartments/">Link</a></td>
+<td>FPI Management</td><td>(408) 224-5609</td><td><A HREF=javascript:loadDoc('80','Montecito','Vista')>Link</A></td>
+</tr>
+<tr><td>96</td><td>Parkside Glen</td><td><a href="http://maps.google.com/?q=810 Hillsdale Avenue and Pearl Avenue San Jose, CA">810 Hillsdale Avenue and Pearl Avenue</a></td>
+<td><a href="http://www.parksideglen.com/">Link</a></td>
+<td>The Related Company</td><td>(408) 264-8291</td><td><A HREF=javascript:loadDoc('810','Hillsdale','AV')>Link</A></td>
+</tr>
+<tr><td>97</td><td>Parkside Terrace</td><td><a href="http://maps.google.com/?q=463 Wooster Ave San Jose, CA">463 Wooster Ave</a></td>
+<td>No website</td><td>AFFORDABLE HOUSING ACCESS, INC.</td><td>(949) 253-3120</td><td><A HREF=javascript:loadDoc('463','Wooster','Ave')>Link</A></td>
+</tr>
+<tr><td>98</td><td>Parkview Family</td><td><a href="http://maps.google.com/?q=360 Meridian Avenue and San Carlos Street San Jose, CA">360 Meridian Avenue and San Carlos Street</a></td>
+<td><a href="http://www.eahhousing.org/pages/apartmentdetail/20">Link</a></td>
+<td>EAH Management</td><td>(408) 995-0989</td><td><A HREF=javascript:loadDoc('360','Meridian','AV')>Link</A></td>
+</tr>
+<tr><td>99</td><td>Paseo Senter I</td><td><a href="http://maps.google.com/?q=1898, 1908 Senter Rd San Jose, CA">1898, 1908 Senter Rd</a></td>
+<td><a href="http://charitieshousing.org/paseo-senter/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 947-9100</td><td><A HREF=javascript:loadDoc('1898,','1908','Senter')>Link</A></td>
+</tr>
+<tr><td>100</td><td>Paseo Senter II</td><td><a href="http://maps.google.com/?q=1896 Senter Rd San Jose, CA">1896 Senter Rd</a></td>
+<td><a href="http://charitieshousing.org/paseo-senter/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 947-9100</td><td><A HREF=javascript:loadDoc('1896','Senter','Rd')>Link</A></td>
+</tr>
+<tr><td>101</td><td>Paula Street</td><td><a href="http://maps.google.com/?q=801 Paula Street San Jose, CA">801 Paula Street</a></td>
+<td><a href="">Link</a></td>
+<td>Westlake Realty Group, Inc.</td><td>(408) 287-7844</td><td><A HREF=javascript:loadDoc('801','Paula','ST')>Link</A></td>
+</tr>
+<tr><td>102</td><td>Pinmore Gardens</td><td><a href="http://maps.google.com/?q=1696 Branham Lane San Jose, CA">1696 Branham Lane</a></td>
+<td><a href="http://fpihacsc.com/property/pinmore-gardens/">Link</a></td>
+<td>FPI Management</td><td>(408) 264-3108</td><td><A HREF=javascript:loadDoc('1696','Branham','LN')>Link</A></td>
+</tr>
+<tr><td>103</td><td>Plaza Maria</td><td><a href="http://maps.google.com/?q=115 East Reed Street and Third Street San Jose, CA">115 East Reed Street and Third Street</a></td>
+<td><a href="http://www.dbarchitect.com/project_detail/49/Plaza%20Maria.html">Link</a></td>
+<td>Mercy Housing California III, L.P.</td><td>(408) 293-5253</td><td><A HREF=javascript:loadDoc('115','East','Reed')>Link</A></td>
+</tr>
+<tr><td>104</td><td>Poco Way</td><td><a href="http://maps.google.com/?q=1900 Poco Way San Jose, CA">1900 Poco Way</a></td>
+<td><a href="http://fpihacsc.com/properties/">Link</a></td>
+<td>FPI Management</td><td>(408) 923-2099</td><td><A HREF=javascript:loadDoc('1900','Poco','WY')>Link</A></td>
+</tr>
+<tr><td>105</td><td>Raintree</td><td><a href="http://maps.google.com/?q=1058 S. Winchester San Jose, CA">1058 S. Winchester</a></td>
+<td><a href="www.raintreesanjose.com">Link</a></td>
+<td>PinnacleAMS</td><td>(855) 493-8290</td><td><A HREF=javascript:loadDoc('1058','S.','Winchester')>Link</A></td>
+</tr>
+<tr><td>106</td><td>Regency Apartments</td><td><a href="http://maps.google.com/?q=1315 Eden Ave San Jose, CA">1315 Eden Ave</a></td>
+<td>No website</td><td>N/A</td><td>(408) 378-1970</td><td><A HREF=javascript:loadDoc('1315','Eden','Ave')>Link</A></td>
+</tr>
+<tr><td>107</td><td>Rincon De Los Esteros</td><td><a href="http://maps.google.com/?q=1780 Old Oakland Road San Jose, CA">1780 Old Oakland Road</a></td>
+<td><a href="http://www.losesteros.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 437-1303</td><td><A HREF=javascript:loadDoc('1780','Old','Oakland')>Link</A></td>
+</tr>
+<tr><td>108</td><td>Roewill</td><td><a href="http://maps.google.com/?q=1059 Roewill Drive San Jose, CA">1059 Roewill Drive</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('1059','Roewill','DR')>Link</A></td>
+</tr>
+<tr><td>109</td><td>Rosemary Family</td><td><a href="http://maps.google.com/?q=66 E ROSEMARY ST San Jose, CA">66 E ROSEMARY ST</a></td>
+<td><a href="http://www.roemcorp.com/projects/1st-and-rosemary-family/">Link</a></td>
+<td>FPI Management</td><td>(408) 606-8098</td><td><A HREF=javascript:loadDoc('66','E','ROSEMARY')>Link</A></td>
+</tr>
+<tr><td>110</td><td>San Jose Apartments</td><td><a href="http://maps.google.com/?q=1500 Cunningham Avenue San Jose, CA">1500 Cunningham Avenue</a></td>
+<td><a href="http://www.dkdproperties.com/south%20bay.htm">Link</a></td>
+<td>DKD Property Management Company</td><td>(408) 272-3311</td><td><A HREF=javascript:loadDoc('1500','Cunningham','AV')>Link</A></td>
+</tr>
+<tr><td>111</td><td>San Jose Gardens</td><td><a href="http://maps.google.com/?q=4668 Albany Drive San Jose, CA">4668 Albany Drive</a></td>
+<td><a href="http://www.gkind.com">Link</a></td>
+<td>G&K Management Company, Inc.</td><td>(408) 248-0800</td><td><A HREF=javascript:loadDoc('4668','Albany','DR')>Link</A></td>
+</tr>
+<tr><td>112</td><td>Santa Familia</td><td><a href="http://maps.google.com/?q=4984 Severance Drive San Jose, CA">4984 Severance Drive</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 448-2946</td><td><A HREF=javascript:loadDoc('4984','Severance','DR')>Link</A></td>
+</tr>
+<tr><td>113</td><td>St. Claire Apartments</td><td><a href="http://maps.google.com/?q=301 S.First Street San Jose, CA">301 S.First Street</a></td>
+<td><a href="http://www.stclaireapts.com/">Link</a></td>
+<td>Sainte Claire Apartment Homes</td><td>(408) 499-2229</td><td><A HREF=javascript:loadDoc('301','S.First','ST')>Link</A></td>
+</tr>
+<tr><td>114</td><td>Stonegate</td><td><a href="http://maps.google.com/?q=4401 Renaissance Drive San Jose, CA">4401 Renaissance Drive</a></td>
+<td>No website</td><td>ConAm Management</td><td>(408) 922-7255</td><td><A HREF=javascript:loadDoc('4401','Renaissance','DR')>Link</A></td>
+</tr>
+<tr><td>115</td><td>Summer Breeze</td><td><a href="http://maps.google.com/?q=200 Lewis Road San Jose, CA">200 Lewis Road</a></td>
+<td><a href="http://www.roemcorp.com/projects/summer-breeze/">Link</a></td>
+<td>FPI Management</td><td>(408) 362-9011</td><td><A HREF=javascript:loadDoc('200','Lewis','RD')>Link</A></td>
+</tr>
+<tr><td>116</td><td>Sunset Square</td><td><a href="http://maps.google.com/?q=2080 Alum Rock Avenue San Jose, CA">2080 Alum Rock Avenue</a></td>
+<td><a href="http://charitieshousing.org/sunset-square-apartments/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 550-8300</td><td><A HREF=javascript:loadDoc('2080','Alum','Rock')>Link</A></td>
+</tr>
+<tr><td>117</td><td>Taylor Oaks Apartments</td><td><a href="http://maps.google.com/?q=2726-2738 Kollmar San Jose, CA">2726-2738 Kollmar</a></td>
+<td><a href="http://www.tayloroaksapartments.com/">Link</a></td>
+<td>FPI Management</td><td>(408) 926-3177</td><td><A HREF=javascript:loadDoc('2726-2738','Kollmar','')>Link</A></td>
+</tr>
+<tr><td>118</td><td>Terramina Square</td><td><a href="http://maps.google.com/?q=410 North White Road San Jose, CA">410 North White Road</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 259-8105</td><td><A HREF=javascript:loadDoc('410','North','White')>Link</A></td>
+</tr>
+<tr><td>119</td><td>The Grove</td><td><a href="http://maps.google.com/?q=510 Branham Lane San Jose, CA">510 Branham Lane</a></td>
+<td><a href="http://www.communityhousingsv.org/">Link</a></td>
+<td>C.H.D. PMS</td><td>(408) 279-7677</td><td><A HREF=javascript:loadDoc('510','Branham','LN')>Link</A></td>
+</tr>
+<tr><td>120</td><td>Third Street Apartments</td><td><a href="http://maps.google.com/?q=1010 S. 3rd Street San Jose, CA">1010 S. 3rd Street</a></td>
+<td>No website</td><td>N/A</td><td>N/A</td><td><A HREF=javascript:loadDoc('1010','S.','3rd')>Link</A></td>
+</tr>
+<tr><td>121</td><td>Thornbridge</td><td><a href="http://maps.google.com/?q=5210 Monterey Rd. San Jose, CA">5210 Monterey Rd.</a></td>
+<td><a href="www.thornbridgeapartments.com">Link</a></td>
+<td>ConAm Management</td><td>(408) 226-6500</td><td><A HREF=javascript:loadDoc('5210','Monterey','Rd.')>Link</A></td>
+</tr>
+<tr><td>122</td><td>Tierra Encantada</td><td><a href="http://maps.google.com/?q=1918 Alum Rock Avenue San Jose, CA">1918 Alum Rock Avenue</a></td>
+<td><a href="http://www.communityhousingsv.org/">Link</a></td>
+<td>FPI Management, Inc.</td><td>(408) 926-8082</td><td><A HREF=javascript:loadDoc('1918','Alum','Rock')>Link</A></td>
+</tr>
+<tr><td>123</td><td>Town Park Towers</td><td><a href="http://maps.google.com/?q=60 North 3rd Street San Jose, CA">60 North 3rd Street</a></td>
+<td><a href="http://www.ncphs.org/affordable-housing/town-park-towers-san-jose">Link</a></td>
+<td>Northern California Presbyterian Homes & Services</td><td>(408) 288-8750</td><td><A HREF=javascript:loadDoc('60','North','3rd')>Link</A></td>
+</tr>
+<tr><td>124</td><td>Trestles Apartments</td><td><a href="http://maps.google.com/?q=1566 Scott St. San Jose, CA">1566 Scott St.</a></td>
+<td><a href="http://www.trestles-apts.com/">Link</a></td>
+<td>Fairfield Trestles L.P.</td><td>(408) 293-2727</td><td><A HREF=javascript:loadDoc('1566','Scott','St.')>Link</A></td>
+</tr>
+<tr><td>125</td><td>Troy Apartments</td><td><a href="http://maps.google.com/?q=714 S ALMADEN AVE San Jose, CA">714 S ALMADEN AVE</a></td>
+<td><a href="http://www.firsthousing.com/contact/rental/">Link</a></td>
+<td>FPI Management, Inc.</td><td>(408) 287-7844</td><td><A HREF=javascript:loadDoc('714','S','ALMADEN')>Link</A></td>
+</tr>
+<tr><td>126</td><td>Turnleaf</td><td><a href="http://maps.google.com/?q=3201 Loma Verde Drive San Jose, CA">3201 Loma Verde Drive</a></td>
+<td><a href="http://www.turnleaf-apts.com/">Link</a></td>
+<td>Fairfield Residential LLC</td><td>(408) 378-9138</td><td><A HREF=javascript:loadDoc('3201','Loma','Verde')>Link</A></td>
+</tr>
+<tr><td>127</td><td>Valley Palms Apartments</td><td><a href="http://maps.google.com/?q=2245 Lanai Ave. San Jose, CA">2245 Lanai Ave.</a></td>
+<td>No website</td><td>KDF Communities LLC</td><td>(408) 251-2746</td><td><A HREF=javascript:loadDoc('2245','Lanai','Ave.')>Link</A></td>
+</tr>
+<tr><td>128</td><td>Vendome Apartments/San Pedro Square Apts.</td><td><a href="http://maps.google.com/?q=155 W. Santa Clara St. San Jose, CA">155 W. Santa Clara St.</a></td>
+<td><a href="N/A">Link</a></td>
+<td>N/A</td><td>(408) 817-9435</td><td><A HREF=javascript:loadDoc('155','W.','Santa')>Link</A></td>
+</tr>
+<tr><td>129</td><td>Verandas</td><td><a href="http://maps.google.com/?q=1868 North Capitol Avenue San Jose, CA">1868 North Capitol Avenue</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 263-8770</td><td><A HREF=javascript:loadDoc('1868','North','Capitol')>Link</A></td>
+</tr>
+<tr><td>130</td><td>Villa Monterey</td><td><a href="http://maps.google.com/?q=2898 Villa Monterey San Jose, CA">2898 Villa Monterey</a></td>
+<td>No website</td><td>VPM Management Inc.</td><td>(408) 365-9200</td><td><A HREF=javascript:loadDoc('2898','Villa','Monterey')>Link</A></td>
+</tr>
+<tr><td>131</td><td>Villa Savannah</td><td><a href="http://maps.google.com/?q=4511 Renaissance Drive San Jose, CA">4511 Renaissance Drive</a></td>
+<td><a href="www.winnco.com">Link</a></td>
+<td>WinnResidential</td><td>(408) 922-9980</td><td><A HREF=javascript:loadDoc('4511','Renaissance','DR')>Link</A></td>
+</tr>
+<tr><td>132</td><td>Villa Solera</td><td><a href="http://maps.google.com/?q=1385 Lucretia Avenue San Jose, CA">1385 Lucretia Avenue</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 975-0581</td><td><A HREF=javascript:loadDoc('1385','Lucretia','AV')>Link</A></td>
+</tr>
+<tr><td>133</td><td>Villa Torino</td><td><a href="http://maps.google.com/?q=29 West Julian Street San Jose, CA">29 West Julian Street</a></td>
+<td><a href="http://www.villatorinoapts.com/">Link</a></td>
+<td>Woodmont</td><td>(408) 294-3000</td><td><A HREF=javascript:loadDoc('29','West','Julian')>Link</A></td>
+</tr>
+<tr><td>134</td><td>Villa Torre I</td><td><a href="http://maps.google.com/?q=955 S 6th St San Jose, CA">955 S 6th St</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 292-4600</td><td><A HREF=javascript:loadDoc('955','S','6th')>Link</A></td>
+</tr>
+<tr><td>135</td><td>Villa Torre II</td><td><a href="http://maps.google.com/?q=955 S 6th St San Jose, CA">955 S 6th St</a></td>
+<td><a href="www.caremgt.com">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 292-4600Â </td><td><A HREF=javascript:loadDoc('955','S','6th')>Link</A></td>
+</tr>
+<tr><td>136</td><td>Village @ Museum Park</td><td><a href="http://maps.google.com/?q=465 W San Carlos St San Jose, CA">465 W San Carlos St</a></td>
+<td><a href="http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-jose/museum-park">Link</a></td>
+<td>Essex</td><td>(866) 547-5813</td><td><A HREF=javascript:loadDoc('465','W','San')>Link</A></td>
+</tr>
+<tr><td>137</td><td>Vintage Tower</td><td><a href="http://maps.google.com/?q=235 East Santa Clara St San Jose, CA">235 East Santa Clara St</a></td>
+<td><a href="http://www.vintagetower.freeservers.com/">Link</a></td>
+<td>AMC</td><td>(408) 297-4705</td><td><A HREF=javascript:loadDoc('235','East','Santa')>Link</A></td>
+</tr>
+<tr><td>138</td><td>Vivente II</td><td><a href="http://maps.google.com/?q=5347 Dent Avenue San Jose, CA">5347 Dent Avenue</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 448-2946</td><td><A HREF=javascript:loadDoc('5347','Dent','AV')>Link</A></td>
+</tr>
+<tr><td>139</td><td>Waterford Place</td><td><a href="http://maps.google.com/?q=1700 N 1st Street San Jose, CA">1700 N 1st Street</a></td>
+<td><a href="http://www.essexapartmenthomes.com/apartment/waterford-place-san-jose-ca-4p05i6585075">Link</a></td>
+<td>Essex</td><td>(408) 335-0155</td><td><A HREF=javascript:loadDoc('1700','N','1st')>Link</A></td>
+</tr>
+<tr><td>140</td><td>Willow Creek</td><td><a href="http://maps.google.com/?q=925 Willowleaf Dr San Jose, CA">925 Willowleaf Dr</a></td>
+<td><a href="http://willowcreeksanjose.com/">Link</a></td>
+<td>Greystar</td><td>(877) 959-3369</td><td><A HREF=javascript:loadDoc('925','Willowleaf','Dr')>Link</A></td>
+</tr>
+<tr><td>141</td><td>Willow Lake</td><td><a href="http://maps.google.com/?q=1331 Lakeshore Circle San Jose, CA">1331 Lakeshore Circle</a></td>
+<td><a href="http://www.essexapartmenthomes.com/apartment/willow-lake-san-jose-ca-301608561068">Link</a></td>
+<td>Essex</td><td>(877) 698-6090</td><td><A HREF=javascript:loadDoc('1331','Lakeshore','CL')>Link</A></td>
+</tr>
+<tr><td>142</td><td>Willows Apartments</td><td><a href="http://maps.google.com/?q=894 Paula Street San Jose, CA">894 Paula Street</a></td>
+<td><a href="http://fpihacsc.com/properties/">Link</a></td>
+<td>FPI Management</td><td>(408) 280-6389</td><td><A HREF=javascript:loadDoc('894','Paula','ST')>Link</A></td>
+</tr>
+<tr><td>143</td><td>YWCA Third Street</td><td><a href="http://maps.google.com/?q=375 South 3rd Street San Jose, CA">375 South 3rd Street</a></td>
+<td><a href="http://www.ywca-sv.org/contact/index.php">Link</a></td>
+<td>Seven Hills Properties</td><td>(408) 295-4011 ext. 200</td><td><A HREF=javascript:loadDoc('375','South','3rd')>Link</A></td>
+</tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Senior Housing</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>#</td><td>Development Name</td><td>Address</td><td>Property Website</td><td>Management Company</td><td>Public Phone #</td></tr>
+<tr><td>1</td><td>Arbor Terraces</td><td><a href="http://maps.google.com/?q=2760 McKee Road San Jose, CA">2760 McKee Road</a></td>
+<td><a href="http://www.caremgt.com/arbor-terraces.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 251-7570</td><td><A HREF=javascript:loadDoc('2760','McKee','RD')>Link</A></td>
+</tr>
+<tr><td>2</td><td>Avenida Espana Gardens</td><td><a href="http://maps.google.com/?q=181 Rawls Ct. San Jose, CA">181 Rawls Ct.</a></td>
+<td><a href="http://jsco.net/property/avenida-espaa-gardens/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 972-5529</td><td><A HREF=javascript:loadDoc('181','Rawls','Ct.')>Link</A></td>
+</tr>
+<tr><td>3</td><td>Belovida Apartments</td><td><a href="http://maps.google.com/?q=1777 Newbury Park San Jose, CA">1777 Newbury Park</a></td>
+<td><a href="http://www.belovidanewburypark.com/">Link</a></td>
+<td>EAH,Inc.</td><td>(408) 263-8484</td><td><A HREF=javascript:loadDoc('1777','Newbury','Park')>Link</A></td>
+</tr>
+<tr><td>4</td><td>Brooks House Senior</td><td><a href="http://maps.google.com/?q=655 Richmond Avenue San Jose, CA">655 Richmond Avenue</a></td>
+<td><a href="http://www.corpforbetterhousing.com/county_santaclara2.php">Link</a></td>
+<td>Beacon Property Management, Inc</td><td>(408) 288-6108</td><td><A HREF=javascript:loadDoc('655','Richmond','AV')>Link</A></td>
+</tr>
+<tr><td>5</td><td>Carlton Plaza</td><td><a href="http://maps.google.com/?q=380 Branham Lane San Jose, CA">380 Branham Lane</a></td>
+<td><a href="http://www.carltonseniorliving.com/locations/carlton-plaza-san-jose/">Link</a></td>
+<td>Carlton Plaza of San Jose</td><td>(408) 972-1400</td><td><A HREF=javascript:loadDoc('380','Branham','LN')>Link</A></td>
+</tr>
+<tr><td>6</td><td>Casa del Pueblo</td><td><a href="http://maps.google.com/?q=200 S. Market Street San Jose, CA">200 S. Market Street</a></td>
+<td><a href="http://www.barcelonseniorliving.com/p/senior_apartment/contact_us_5842/san-jose-ca-95113/casa-del-pueblo-5842?fullsite=1">Link</a></td>
+<td>Barcelon Associates Management</td><td>(408) 294-5380</td><td><A HREF=javascript:loadDoc('200','S.','Market')>Link</A></td>
+</tr>
+<tr><td>7</td><td>Chai House I</td><td><a href="http://maps.google.com/?q=814 St Elizabeth Dr San Jose, CA">814 St Elizabeth Dr</a></td>
+<td><a href="http://www.chaihouse.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 947-1818</td><td><A HREF=javascript:loadDoc('814','St','Elizabeth')>Link</A></td>
+</tr>
+<tr><td>8</td><td>Corde Terra Village Senior</td><td><a href="http://maps.google.com/?q=2600 Corde Terra Circle San Jose, CA">2600 Corde Terra Circle</a></td>
+<td><a href="http://www.roemcorp.com/projects/corde-terra-village/">Link</a></td>
+<td>FPI Management</td><td>(408) 298-9988</td><td><A HREF=javascript:loadDoc('2600','Corde','Terra')>Link</A></td>
+</tr>
+<tr><td>9</td><td>Craig Gardens Apartments</td><td><a href="http://maps.google.com/?q=2580 South Bascom San Jose, CA">2580 South Bascom</a></td>
+<td><a href="http://www.firsthousing.com/contact/rental/">Link</a></td>
+<td>Westlake Realty Group, Inc.</td><td>(408) 559-1907</td><td><A HREF=javascript:loadDoc('2580','South','Bascom')>Link</A></td>
+</tr>
+<tr><td>10</td><td>Cypress Gardens Senior</td><td><a href="http://maps.google.com/?q=3555 Judro Way San Jose, CA">3555 Judro Way</a></td>
+<td><a href="https://jscohacsc.com/property/cypress-gardens/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 248-1442</td><td><A HREF=javascript:loadDoc('3555','Judro','WY')>Link</A></td>
+</tr>
+<tr><td>11</td><td>De Rose Gardens</td><td><a href="http://maps.google.com/?q=1401 DeRose Way San Jose, CA">1401 DeRose Way</a></td>
+<td><a href="http://fpihacsc.com/property/derose-gardens/">Link</a></td>
+<td>FPI Management</td><td>(408) 993-0449</td><td><A HREF=javascript:loadDoc('1401','DeRose','WY')>Link</A></td>
+</tr>
+<tr><td>12</td><td>El Parador Senior</td><td><a href="http://maps.google.com/?q=2565 South Bascom Avenue San Jose, CA">2565 South Bascom Avenue</a></td>
+<td><a href="https://jscohacsc.com/property/el-parador/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 626-9262</td><td><A HREF=javascript:loadDoc('2565','South','Bascom')>Link</A></td>
+</tr>
+<tr><td>13</td><td>Gadberry Court</td><td><a href="http://maps.google.com/?q=2557 Alum Rock Avenue San Jose, CA">2557 Alum Rock Avenue</a></td>
+<td><a href="http://www.roemcorp.com/projects/gadberry-courts/">Link</a></td>
+<td>FPI Management</td><td>(408) 928-2750</td><td><A HREF=javascript:loadDoc('2557','Alum','Rock')>Link</A></td>
+</tr>
+<tr><td>14</td><td>Girasol Seniors</td><td><a href="http://maps.google.com/?q=1710 Alum Rock Ave. San Jose, CA">1710 Alum Rock Ave.</a></td>
+<td>No website</td><td>FPI Management, Inc.</td><td>(408) 926-8140</td><td><A HREF=javascript:loadDoc('1710','Alum','Rock')>Link</A></td>
+</tr>
+<tr><td>15</td><td>Hacienda Creek Senior</td><td><a href="http://maps.google.com/?q=399 East Court San Jose, CA">399 East Court</a></td>
+<td><a href="http://www.roemcorp.com/projects/hacienda-creek/">Link</a></td>
+<td>FPI Management</td><td>(408) 885-0551</td><td><A HREF=javascript:loadDoc('399','East','CT')>Link</A></td>
+</tr>
+<tr><td>16</td><td>Hilltop Manor</td><td><a href="http://maps.google.com/?q=790 Ironwood Drive San Jose, CA">790 Ironwood Drive</a></td>
+<td><a href="http://www.hilltopmanor.org/">Link</a></td>
+<td>HIlltop Manor, Inc.</td><td>(408) 267-2929</td><td><A HREF=javascript:loadDoc('790','Ironwood','DR')>Link</A></td>
+</tr>
+<tr><td>17</td><td>Japantown Seniors</td><td><a href="http://maps.google.com/?q=685 North 6th Street San Jose, CA">685 North 6th Street</a></td>
+<td><a href="http://www.firsthousing.com/cat/developments/">Link</a></td>
+<td>N/A</td><td>(408) 291-8650</td><td><A HREF=javascript:loadDoc('685','North','6th')>Link</A></td>
+</tr>
+<tr><td>18</td><td>Jardines Paloma Blanca</td><td><a href="http://maps.google.com/?q=132 North Jackson Avenue San Jose, CA">132 North Jackson Avenue</a></td>
+<td><a href="">Link</a></td>
+<td>FPI Management, Inc.</td><td>(408) 937-4781</td><td><A HREF=javascript:loadDoc('132','North','Jackson')>Link</A></td>
+</tr>
+<tr><td>19</td><td>Jeanne D'Arc Manor</td><td><a href="http://maps.google.com/?q=85 S. 5th Street San Jose, CA">85 S. 5th Street</a></td>
+<td><a href="http://jsco.net/property/jeanne-darc-manor/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 288-7421</td><td><A HREF=javascript:loadDoc('85','S.','5th')>Link</A></td>
+</tr>
+<tr><td>20</td><td>Las Golondrinas</td><td><a href="http://maps.google.com/?q=77 KENTUCKY PL, San Jose, CA">77 KENTUCKY PL,</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>FPI Management, Inc.</td><td>(408) 937-1135</td><td><A HREF=javascript:loadDoc('77','KENTUCKY','PL,')>Link</A></td>
+</tr>
+<tr><td>21</td><td>Le Mirador</td><td><a href="http://maps.google.com/?q=1191 Coleman Road and Almaden Expressway San Jose, CA">1191 Coleman Road and Almaden Expressway</a></td>
+<td><a href="http://www.caremgt.com/le-mirador.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 268-9310</td><td><A HREF=javascript:loadDoc('1191','Coleman','RD')>Link</A></td>
+</tr>
+<tr><td>22</td><td>Lenzen Gardens Senior</td><td><a href="http://maps.google.com/?q=893 Lenzen Avenue San Jose, CA">893 Lenzen Avenue</a></td>
+<td><a href="https://jscohacsc.com/property/lenzen-gardens/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 295-8440</td><td><A HREF=javascript:loadDoc('893','Lenzen','AV')>Link</A></td>
+</tr>
+<tr><td>23</td><td>Mabuhay</td><td><a href="http://maps.google.com/?q=270 E. Empire Street San Jose, CA">270 E. Empire Street</a></td>
+<td><a href="http://www.bridgehousing.com/properties/senior/santa-clara/san-jose/mabuhay">Link</a></td>
+<td>Seven Hills Properties</td><td>(408) 885-0448</td><td><A HREF=javascript:loadDoc('270','E.','Empire')>Link</A></td>
+</tr>
+<tr><td>24</td><td>Meadows</td><td><a href="http://maps.google.com/?q=513 East Branham Lane San Jose, CA">513 East Branham Lane</a></td>
+<td><a href="http://www.communityhousingsv.org/">Link</a></td>
+<td>C.H.D. PMS</td><td>(408) 279-7677</td><td><A HREF=javascript:loadDoc('513','East','Branham')>Link</A></td>
+</tr>
+<tr><td>25</td><td>Miranda Villa</td><td><a href="http://maps.google.com/?q=2094 Forest Avenue San Jose, CA">2094 Forest Avenue</a></td>
+<td><a href="http://www.caremgt.com/miranda-villa.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 295-5581</td><td><A HREF=javascript:loadDoc('2094','Forest','AV')>Link</A></td>
+</tr>
+<tr><td>26</td><td>Monte Vista Gardens Sr. Housing I</td><td><a href="http://maps.google.com/?q=2605 La Hacienda Ct and S.Capitol Ave San Jose, CA">2605 La Hacienda Ct and S.Capitol Ave</a></td>
+<td><a href="http://www.roemcorp.com/projects/monte-vista-senior-i/">Link</a></td>
+<td>FPI Management</td><td>(408) 928-2750</td><td><A HREF=javascript:loadDoc('2605','La','Hacienda')>Link</A></td>
+</tr>
+<tr><td>27</td><td>Monte Vista Gardens Sr. Housing II</td><td><a href="http://maps.google.com/?q=2600 Nuestra Castillo Ct and Capitol Ave San Jose, CA">2600 Nuestra Castillo Ct and Capitol Ave</a></td>
+<td><a href="https://www.jamboreehousing.com/affordable-housing-communities/properties-list/monte-vista-gardens?vwr-type=Partner http://fpihacsc.com/property/morrone-gardens/">Link</a></td>
+<td>FPI Management</td><td>(408) 928-2750</td><td><A HREF=javascript:loadDoc('2600','Nuestra','Castillo')>Link</A></td>
+</tr>
+<tr><td>28</td><td>Morrone Gardens</td><td><a href="http://maps.google.com/?q=1107 Luchessi Drive San Jose, CA">1107 Luchessi Drive</a></td>
+<td><a href="http://fpihacsc.com/properties/">Link</a></td>
+<td>FPI Management</td><td>(408) 723-4118</td><td><A HREF=javascript:loadDoc('1107','Luchessi','DR')>Link</A></td>
+</tr>
+<tr><td>29</td><td>Oak Circle</td><td><a href="http://maps.google.com/?q=1410 Roberts Avenue San Jose, CA">1410 Roberts Avenue</a></td>
+<td><a href="http://www.bridgehousing.com/properties/senior/santa-clara/san-jose/oak-circle">Link</a></td>
+<td>Seven Hills Properties</td><td>(408) 971-9099</td><td><A HREF=javascript:loadDoc('1410','Roberts','AV')>Link</A></td>
+</tr>
+<tr><td>30</td><td>Oaks of Almaden</td><td><a href="http://maps.google.com/?q=5050 Russo Drive San Jose, CA">5050 Russo Drive</a></td>
+<td><a href="http://www.roemcorp.com/projects/oaks-of-almaden/">Link</a></td>
+<td>FPI Management</td><td>(408) 265-7248</td><td><A HREF=javascript:loadDoc('5050','Russo','DR')>Link</A></td>
+</tr>
+<tr><td>31</td><td>Palm Court Seniors</td><td><a href="http://maps.google.com/?q=1200 Lick Avenue near Humboldt Street and Palm Street San Jose, CA">1200 Lick Avenue near Humboldt Street and Palm Street</a></td>
+<td><a href="http://www.thepalmcourtapts.com/">Link</a></td>
+<td>EAH Management</td><td>(408) 287-6620</td><td><A HREF=javascript:loadDoc('1200','Lick','AV')>Link</A></td>
+</tr>
+<tr><td>32</td><td>Parkview Seniors</td><td><a href="http://maps.google.com/?q=355 Race Street and San Carlos Street San Jose, CA">355 Race Street and San Carlos Street</a></td>
+<td><a href="http://www.eahhousing.org/pages/featureddevelopmentdetail/64">Link</a></td>
+<td>EAH Management</td><td>(408) 287-1860</td><td><A HREF=javascript:loadDoc('355','Race','ST')>Link</A></td>
+</tr>
+<tr><td>33</td><td>Plaza Del Sol</td><td><a href="http://maps.google.com/?q=1380 Blossom Hill Road and Waltrip Drive San Jose, CA">1380 Blossom Hill Road and Waltrip Drive</a></td>
+<td><a href="http://www.caremgt.com/plaza-del-sol.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 264-0900</td><td><A HREF=javascript:loadDoc('1380','Blossom','Hill')>Link</A></td>
+</tr>
+<tr><td>34</td><td>Quail Hills Sr.</td><td><a href="http://maps.google.com/?q=1260 Piedmont Road and Sierra Road San Jose, CA">1260 Piedmont Road and Sierra Road</a></td>
+<td><a href="http://www.caremgt.com/qual-hills.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 926-4250</td><td><A HREF=javascript:loadDoc('1260','Piedmont','RD')>Link</A></td>
+</tr>
+<tr><td>35</td><td>Rose Garden Seniors</td><td><a href="http://maps.google.com/?q=3071 Rose Ave San Jose, CA">3071 Rose Ave</a></td>
+<td><a href="http://www.roemcorp.com/projects/rose-gardens/">Link</a></td>
+<td>FPI Management</td><td>(408) 928-2750</td><td><A HREF=javascript:loadDoc('3071','Rose','Ave')>Link</A></td>
+</tr>
+<tr><td>36</td><td>Rosemary Seniors</td><td><a href="http://maps.google.com/?q=60 E. Rosemary San Jose, CA">60 E. Rosemary</a></td>
+<td><a href="http://www.roemcorp.com/projects/1st-and-rosemary-family/">Link</a></td>
+<td>FPI Management</td><td>(408) 606-8098</td><td><A HREF=javascript:loadDoc('60','E.','Rosemary')>Link</A></td>
+</tr>
+<tr><td>37</td><td>San Carlos Senior</td><td><a href="http://maps.google.com/?q=1523 West San Carlos St San Jose, CA">1523 West San Carlos St</a></td>
+<td><a href="http://www.eahhousing.org/pages/apartmentdetail/116">Link</a></td>
+<td>EAH,Inc.</td><td>(408) 380-4087</td><td><A HREF=javascript:loadDoc('1523','West','San')>Link</A></td>
+</tr>
+<tr><td>38</td><td>Shiraz Senior</td><td><a href="http://maps.google.com/?q=1295 McLaughlin Avenue San Jose, CA">1295 McLaughlin Avenue</a></td>
+<td><a href="http://www.roemcorp.com/projects/shiraz-senior-housing/">Link</a></td>
+<td>FPI Management</td><td>(408) 928-2750</td><td><A HREF=javascript:loadDoc('1295','McLaughlin','AV')>Link</A></td>
+</tr>
+<tr><td>39</td><td>Sienna Senior</td><td><a href="http://maps.google.com/?q=1496 Almaden Road San Jose, CA">1496 Almaden Road</a></td>
+<td><a href="http://www.caremgt.com/sienna.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 971-9640</td><td><A HREF=javascript:loadDoc('1496','Almaden','RD')>Link</A></td>
+</tr>
+<tr><td>40</td><td>Summercrest Villas</td><td><a href="http://maps.google.com/?q=1725 Almaden Road San Jose, CA">1725 Almaden Road</a></td>
+<td><a href="http://www.laspalmashousing.com/summercrest-villas/">Link</a></td>
+<td>ConAm Management</td><td>(408) 264-2900</td><td><A HREF=javascript:loadDoc('1725','Almaden','RD')>Link</A></td>
+</tr>
+<tr><td>41</td><td>Villa de Guadalupe</td><td><a href="http://maps.google.com/?q=2151 Plaza de Guadalupe San Jose, CA">2151 Plaza de Guadalupe</a></td>
+<td><a href="http://www.villadeguadalupeapts.com/">Link</a></td>
+<td>AMC-CA, Inc.</td><td>(408) 251-2955</td><td><A HREF=javascript:loadDoc('2151','Plaza','de')>Link</A></td>
+</tr>
+<tr><td>42</td><td>Villa Hermosa</td><td><a href="http://maps.google.com/?q=1640 Hermocilla Way San Jose, CA">1640 Hermocilla Way</a></td>
+<td><a href="https://jscohacsc.com/property/villa-hermosa/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 926-9662</td><td><A HREF=javascript:loadDoc('1640','Hermocilla','WY')>Link</A></td>
+</tr>
+<tr><td>43</td><td>Villaggio Sr.</td><td><a href="http://maps.google.com/?q=2855 The Villages Pkwy San Jose, CA">2855 The Villages Pkwy</a></td>
+<td><a href="http://www.caremgt.com/villaggio.html">Link</a></td>
+<td>California Management Company, LLC</td><td>(408) 270-7040</td><td><A HREF=javascript:loadDoc('2855','The','Villages')>Link</A></td>
+</tr>
+<tr><td>44</td><td>Vista Park Sr. I</td><td><a href="http://maps.google.com/?q=3955 Vista Park Drive San Jose, CA">3955 Vista Park Drive</a></td>
+<td><a href="http://www.eahhousing.org/pages/apartmentdetail/103">Link</a></td>
+<td>EAH Management</td><td>(408) 264-6661</td><td><A HREF=javascript:loadDoc('3955','Vista','Park')>Link</A></td>
+</tr>
+<tr><td>45</td><td>Vista Park Sr. II</td><td><a href="http://maps.google.com/?q=3955 Vista Park Drive San Jose, CA">3955 Vista Park Drive</a></td>
+<td><a href="http://www.eahhousing.org/pages/apartmentdetail/103">Link</a></td>
+<td>EAH Management</td><td>(408) 264-6661</td><td><A HREF=javascript:loadDoc('3955','Vista','Park')>Link</A></td>
+</tr>
+<tr><td>46</td><td>Willow Glen Sr.</td><td><a href="http://maps.google.com/?q=465 WILLOW GLEN WAY San Jose, CA">465 WILLOW GLEN WAY</a></td>
+<td>No website</td><td>The Related Company</td><td>(408) 459-7809</td><td><A HREF=javascript:loadDoc('465','WILLOW','GLEN')>Link</A></td>
+</tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Special Needs Housing</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>#</td><td>Development Name</td><td>Address</td><td>Property Website</td><td>Management Company</td><td>Public Phone #</td></tr>
+<tr><td>1</td><td>Casa Feliz Studios</td><td><a href="http://maps.google.com/?q=525 S.9th St San Jose, CA">525 S.9th St</a></td>
+<td><a href="http://www.casafelizapartments.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 516-4776</td><td><A HREF=javascript:loadDoc('525','S.9th','St')>Link</A></td>
+</tr>
+<tr><td>2</td><td>Creekview Inn</td><td><a href="http://maps.google.com/?q=965 Lundy Avenue south of Beryessa Rd San Jose, CA">965 Lundy Avenue south of Beryessa Rd</a></td>
+<td><a href="http://www.firsthousing.com/contact/rental/">Link</a></td>
+<td>Westlake Realty Group, Inc.</td><td>(408) 254-4540</td><td><A HREF=javascript:loadDoc('965','Lundy','AV')>Link</A></td>
+</tr>
+<tr><td>3</td><td>Curtner Gardens</td><td><a href="http://maps.google.com/?q=701 Curtner Avenue San Jose, CA">701 Curtner Avenue</a></td>
+<td><a href="http://www.curtnerstudios.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 265-4249</td><td><A HREF=javascript:loadDoc('701','Curtner','AV')>Link</A></td>
+</tr>
+<tr><td>4</td><td>Edenvale Special Needs</td><td><a href="http://maps.google.com/?q=5340 Monterey Road San Jose, CA">5340 Monterey Road</a></td>
+<td><a href="http://www.edenhousing.org/property/edenvale-special-needs">Link</a></td>
+<td>Eden Housing Management</td><td>(408) 224-5080</td><td><A HREF=javascript:loadDoc('5340','Monterey','RD')>Link</A></td>
+</tr>
+<tr><td>5</td><td>Fourth Street Apartments</td><td><a href="http://maps.google.com/?q=1460 N.4th Street San Jose, CA">1460 N.4th Street</a></td>
+<td><a href="http://www.fourthstreetapts.org/">Link</a></td>
+<td>John Stewart Company</td><td>(408) 451-9054</td><td><A HREF=javascript:loadDoc('1460','N.4th','ST')>Link</A></td>
+</tr>
+<tr><td>6</td><td>Hester Apartments</td><td><a href="http://maps.google.com/?q=1759 Hester Avenue San Jose, CA">1759 Hester Avenue</a></td>
+<td><a href="N/A">Link</a></td>
+<td>Innvision - The Way Home</td><td>N/A</td><td><A HREF=javascript:loadDoc('1759','Hester','AV')>Link</A></td>
+</tr>
+<tr><td>7</td><td>Hoffman - 5629</td><td><a href="http://maps.google.com/?q=5629 Hoffman Court San Jose, CA">5629 Hoffman Court</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('5629','Hoffman','CT')>Link</A></td>
+</tr>
+<tr><td>8</td><td>Hoffman - 5668</td><td><a href="http://maps.google.com/?q=5668 Hoffman Court San Jose, CA">5668 Hoffman Court</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('5668','Hoffman','CT')>Link</A></td>
+</tr>
+<tr><td>9</td><td>Hoffman - 5684</td><td><a href="http://maps.google.com/?q=5684 Hoffman Court San Jose, CA">5684 Hoffman Court</a></td>
+<td><a href="http://www.abodeservices.org/">Link</a></td>
+<td>Abode Services</td><td>(408) 941-1850</td><td><A HREF=javascript:loadDoc('5684','Hoffman','CT')>Link</A></td>
+</tr>
+<tr><td>10</td><td>Homebase</td><td><a href="http://maps.google.com/?q=865 Calhoun St. San Jose, CA">865 Calhoun St.</a></td>
+<td><a href="">Link</a></td>
+<td>John Stewart Company</td><td>(408) 713-2618</td><td><A HREF=javascript:loadDoc('865','Calhoun','St.')>Link</A></td>
+</tr>
+<tr><td>11</td><td>Homeport</td><td><a href="http://maps.google.com/?q=5030 Union Avenue San Jose, CA">5030 Union Avenue</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 279-2706</td><td><A HREF=javascript:loadDoc('5030','Union','AV')>Link</A></td>
+</tr>
+<tr><td>12</td><td>Homesafe</td><td><a href="http://maps.google.com/?q=70 Kentucky Place San Jose, CA">70 Kentucky Place</a></td>
+<td><a href="http://charitieshousing.org/home-safe-san-jose/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 251-8064</td><td><A HREF=javascript:loadDoc('70','Kentucky','PL')>Link</A></td>
+</tr>
+<tr><td>13</td><td>Lenzen Housing</td><td><a href="http://maps.google.com/?q=790 Lenzen Avenue San Jose, CA">790 Lenzen Avenue</a></td>
+<td><a href="http://www.eahhousing.org/pages/apartmentdetail/44">Link</a></td>
+<td>EAH,Inc.</td><td>(408) 286-9595</td><td><A HREF=javascript:loadDoc('790','Lenzen','AV')>Link</A></td>
+</tr>
+<tr><td>14</td><td>Milagro</td><td><a href="http://maps.google.com/?q=2850 Rose Avenue San Jose, CA">2850 Rose Avenue</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 272-1588</td><td><A HREF=javascript:loadDoc('2850','Rose','AV')>Link</A></td>
+</tr>
+<tr><td>15</td><td>Monterey Villa</td><td><a href="http://maps.google.com/?q=215 Ford Road San Jose, CA">215 Ford Road</a></td>
+<td><a href="http://www.edenhousing.org/property/monterey-villa">Link</a></td>
+<td>Eden Housing Management</td><td>(510) 582-1460</td><td><A HREF=javascript:loadDoc('215','Ford','RD')>Link</A></td>
+</tr>
+<tr><td>16</td><td>Montgomery Street</td><td><a href="http://maps.google.com/?q=358 North Montgomery Street San Jose, CA">358 North Montgomery Street</a></td>
+<td><a href="http://lifemoves.org/locations/">Link</a></td>
+<td>Innvision The Way Home</td><td>(408) 271-5160</td><td><A HREF=javascript:loadDoc('358','North','Montgomery')>Link</A></td>
+</tr>
+<tr><td>17</td><td>Peacock Commons</td><td><a href="http://maps.google.com/?q=3661 Peacock Ct. San Jose, CA">3661 Peacock Ct.</a></td>
+<td><a href="http://www.billwilsoncenter.org/news_events/peacock_commons.html">Link</a></td>
+<td></td><td>(408) 971-9822</td><td><A HREF=javascript:loadDoc('3661','Peacock','Ct.')>Link</A></td>
+</tr>
+<tr><td>18</td><td>Pensione Esperanza</td><td><a href="http://maps.google.com/?q=598 Columbia Avenue (and Bird Ave), SJ San Jose, CA">598 Columbia Avenue (and Bird Ave), SJ</a></td>
+<td><a href="http://charitieshousing.org/pensione-esperanza/">Link</a></td>
+<td>Charities Housing Management</td><td>(408) 920-0811</td><td><A HREF=javascript:loadDoc('598','Columbia','AV')>Link</A></td>
+</tr>
+<tr><td>19</td><td>Pollard Plaza</td><td><a href="http://maps.google.com/?q=1178 McLaughlin near Story Road San Jose, CA">1178 McLaughlin near Story Road</a></td>
+<td><a href="http://www.thepollardplaza.com/">Link</a></td>
+<td>EAH Management</td><td>(877) 715-4431</td><td><A HREF=javascript:loadDoc('1178','McLaughlin','near')>Link</A></td>
+</tr>
+<tr><td>20</td><td>Sobrato House</td><td><a href="http://maps.google.com/?q=496 S. Third St San Jose, CA">496 S. Third St</a></td>
+<td><a href="http://www.homefirstscc.org/our-programs-2/programs-for-youth/sobrato-house-youth-center/">Link</a></td>
+<td>HomeFirst</td><td>(408) 539-2180</td><td><A HREF=javascript:loadDoc('496','S.','Third')>Link</A></td>
+</tr>
+<tr><td>21</td><td>The Villa</td><td><a href="http://maps.google.com/?q=184 South 11th Street San Jose, CA">184 South 11th Street</a></td>
+<td><a href="http://lifemoves.org/locations/">Link</a></td>
+<td>Innvision The Way Home</td><td>(408) 271-0685</td><td><A HREF=javascript:loadDoc('184','South','11th')>Link</A></td>
+</tr>
+<tr><td>22</td><td>Unity Place I</td><td><a href="http://maps.google.com/?q=917 Northrup Street San Jose, CA">917 Northrup Street</a></td>
+<td><a href="http://www.unitycare.org/">Link</a></td>
+<td>Western Property Groupq</td><td>(408) 971-9822</td><td><A HREF=javascript:loadDoc('917','Northrup','ST')>Link</A></td>
+</tr>
+<tr><td>23</td><td>Unity Place II</td><td><a href="http://maps.google.com/?q=109, 115 Roundtable Drive San Jose, CA">109, 115 Roundtable Drive</a></td>
+<td><a href="N/A">Link</a></td>
+<td>N/A</td><td>N/A</td><td><A HREF=javascript:loadDoc('109,','115','Roundtable')>Link</A></td>
+</tr>
+<tr><td>24</td><td>Vivente I</td><td><a href="http://maps.google.com/?q=2400 Enborg Lane San Jose, CA">2400 Enborg Lane</a></td>
+<td><a href="http://property.midpen-housing.org/PropertySearch">Link</a></td>
+<td>MidPen Property Management Corporation</td><td>(408) 279-2706</td><td><A HREF=javascript:loadDoc('2400','Enborg','LN')>Link</A></td>
+</tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</table></body></html>
