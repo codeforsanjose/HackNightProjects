@@ -14,17 +14,23 @@ usaddress(https://pypi.python.org/pypi/usaddress)
 
 # Resources #
 
-San Jose affordable-housing datasets - PublishAffordableExcelCSV.csv
+San Jose affordable-housing datasets - 
+The steps to download the dataset to use are 
+1 - Access http://data.sanjoseca.gov/datasets/165367/affordable-housing-data/
+2 - Select any affordable housing data set of your choice
+3 - Select Export to CSV option on the left panel by clicking on the download icon.
 
 Code Enforcer link - http://www3.sanjoseca.gov/codeEnforcement/cets/form_index.asp
 
 # How to run this app #
-python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv <name of the html output file>
+python CSVToHTMLConverter.py <housing dataset csv> <name of the html output file> <name of kml output file>
 
 Example :
-python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv housing.html
+python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv housing.html housing.kml
 
 The resulting html file will contain an html table with the property listings.
+
+The resulting kml file will contain placemarks that display property information. 
 
 #Open issues#
 
