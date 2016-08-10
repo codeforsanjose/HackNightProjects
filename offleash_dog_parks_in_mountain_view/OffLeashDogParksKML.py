@@ -11,8 +11,9 @@ import urllib2
 import xml.dom.minidom
 import json
 from bs4 import BeautifulSoup
-# @author: ashwin
+import time
 
+GMAPS_API_KEY = ''
 
 def getAddresses(url):
     response = urllib2.urlopen(url)
@@ -21,20 +22,31 @@ def getAddresses(url):
     for link in soup.find_all('a'):
         linkMatch = re.search(r'blobdload.aspx', str(link.get('href')))
         if linkMatch:
+            # addressLink = 'http://www.mountainview.gov/' + link.get('href')
             addressString = link.next_element
             addressList.append(addressString.encode('utf-8').strip())
     return addressList
 
 def geocode(address, sensor=False):
+ # This function queries the Google Maps API geocoder with an
+ # address. It gets back a csv file, which it then parses and
+ # returns a string with the longitude and latitude of the address.
+
+ # This isn't an actual maps key, you'll have to get one yourself.
+ # Sign up for one here: https://code.google.com/apis/console/
   mapsUrl = 'https://maps.googleapis.com/maps/api/geocode/json?address='
      
+ # This joins the parts of the URL together into one string.
   url = ''.join([mapsUrl, urllib2.quote(address), '&sensor=', str(sensor).lower()])
   jsonOutput = str(urllib2.urlopen(url).read ())  # get the response 
+  # fix the output so that the json.loads function will handle it correctly
   jsonOutput = jsonOutput.replace ("\\n", "")
   result = json.loads(jsonOutput)  # converts jsonOutput into a dictionary 
+  # check status is ok i.e. we have results (don't want to get exceptions)
   if result['status'] != "OK": 
     return ""
   coordinates = result['results'][0]['geometry']['location']  # extract the geometry 
+  time.sleep(0.5)      
   return str(coordinates['lng']) + ',' + str(coordinates['lat'])
     
 def createKML(filename):

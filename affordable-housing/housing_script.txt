@@ -6,9 +6,8 @@
       <script>
          function loadDoc(streetName, street, streetType) {
            var xhttp = new XMLHttpRequest();
-           
-         
-         var settings = {
+       
+           var settings = {
            "async": true,
            "crossDomain": true,
            "url": "http://www3.sanjoseca.gov/codeEnforcement/cets/New_ces_Results.asp",
@@ -21,12 +20,12 @@
            "data": "PropHouse=" + streetName + "&PropStreet=" + street + "&PropStreetType=" + streetType
          }
          
-         $.ajax(settings).done(function (response) {
+         $$.ajax(settings).done(function (response) {
            console.log(response);
          
          });
          
-         }
+       }
       </script>
       <style>
          td, th {
@@ -36,4 +35,8 @@
       </style>
       <body>
       	<table>
+      	 $housingDataTable
+      	</table>
+	  </body>
+</html>
         

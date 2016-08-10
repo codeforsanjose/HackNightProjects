@@ -1,5 +1,6 @@
 # affordable-housing-sanjose
 A python converter to visualize affordable housing data for San Jose on an html page.
+It optionally allows for generation of a kml file.
 
 # Dev Setup #
 
@@ -22,13 +23,19 @@ The steps to download the dataset to use are
 
 Code Enforcer link - http://www3.sanjoseca.gov/codeEnforcement/cets/form_index.asp
 
-# How to run this app #
-python CSVToHTMLConverter.py <housing dataset csv> <name of the html output file> <name of kml output file>
+# How to generate a html output#
+python CSVToHTMLTemplate.py <housing dataset csv> <name of the html output file> 
 
 Example :
-python CSVToHTMLConverter.py PublishAffordableExcelCSV.csv housing.html housing.kml
+python CSVToHTMLTemplate.py PublishAffordableExcelCSV.csv housing.html
 
 The resulting html file will contain an html table with the property listings.
+
+# How to generate a kml output#
+python CSVToKML.py <housing dataset csv> <name of kml output file>
+
+Example :
+python CSVToKML.py PublishAffordableExcelCSV.csv housing.kml
 
 The resulting kml file will contain placemarks that display property information. 
 
