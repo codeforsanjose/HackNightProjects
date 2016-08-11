@@ -1,0 +1,1531 @@
+<?xml version="1.0" ?>
+<kml>
+ <Document>
+  <Placemark>
+   <name>Ascent Apartments</name>
+   <description>5805 Charlotte Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.ascentaffordable.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 225-7200</description>
+   <Point>
+    <coordinates>-121.802509,37.2451948</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Charlotte Drive Family Apartments</name>
+   <description>5600 Charlotte Drive, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 226-5822</description>
+   <Point>
+    <coordinates>-121.7992986,37.2432345</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Donner Lofts</name>
+   <description>156 E. St. John St. at 4th, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/LeasingNow&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (650) 356-2900</description>
+   <Point>
+    <coordinates>-121.888034,37.3390709</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lexington Apartments - ROEM</name>
+   <description>Lexington Ave &amp; Great Oaks Pkwy, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/find-a-home/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 984-5600</description>
+   <Point>
+    <coordinates>-121.7945158,37.2503069</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>The Metropolitan (North Phase)</name>
+   <description>2112 Monterey Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/2112-monterey/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Not applicable&lt;br/&gt;Phone Number: (408) 550-8300</description>
+   <Point>
+    <coordinates>-121.8628546,37.3054368</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>101 San Fernando</name>
+   <description>101 E.San Fernando St, Ste 100, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.essexapartmenthomes.com/apartment/101-san-fernando-san-jose-ca-5d0248854567&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Forest City Residential&lt;br/&gt;Phone Number: (866) 700-0404</description>
+   <Point>
+    <coordinates>-121.8867076,37.3357192</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>127 and 110 #22 Roundtable - NSP</name>
+   <description>110, bldg 22, 127 Roundtable Dr., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://streetsteam.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Downtown Streets Team&lt;br/&gt;Phone Number: (650) 833-8663</description>
+   <Point>
+    <coordinates>-121.806077,37.261069</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>1713 Ross</name>
+   <description>1713 Ross Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.9108009,37.2532607</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>1726 Ross</name>
+   <description>1726 Ross Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.91026,37.252562</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>1731 Ross</name>
+   <description>1731 Ross Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.912192,37.253003</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Almaden 1930</name>
+   <description>1930 Almaden, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.kdfcommunities.com/kdfcommunities.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 264-1930</description>
+   <Point>
+    <coordinates>-121.8800351,37.3000693</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Almaden Family Apartments</name>
+   <description>1501 Almaden Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.laspalmashousing.com/almaden-family/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: ConAm Management&lt;br/&gt;Phone Number: (408) 275-1922</description>
+   <Point>
+    <coordinates>-121.8786763,37.3090592</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Almaden Garden Apartments</name>
+   <description>947 Branham Lane, #C, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dkdproperties.com/south%20bay.htm&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: DKD Property Management Company&lt;br/&gt;Phone Number: (408) 323-8020</description>
+   <Point>
+    <coordinates>-121.868859,37.2657816</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Almaden Lake Apartments</name>
+   <description>978 Almaden Lake Drive and Winfield Boulevard, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.bridgehousing.com/properties/family/santa-clara/san-jose/almaden-lake&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Seven Hills Properties&lt;br/&gt;Phone Number: (408) 323-8020</description>
+   <Point>
+    <coordinates>-121.869294,37.2392027</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Almaden Lake Village</name>
+   <description>1045 Coleman Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.almadenlakevillage.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: UDR&lt;br/&gt;Phone Number: (866) 491-6640</description>
+   <Point>
+    <coordinates>-121.8711429,37.2434797</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Anton La Moraga Apartments</name>
+   <description>5822 Charlotte Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.antonlamoraga.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: St. Anton Multifamily&lt;br/&gt;Phone Number: (408) 226-5822</description>
+   <Point>
+    <coordinates>-121.7998063,37.244733</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Arbor Apartments</name>
+   <description>1582 Kooser Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dkdproperties.com/south%20bay.htm&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: DKD Property Management Company&lt;br/&gt;Phone Number: (408) 448-1288</description>
+   <Point>
+    <coordinates>-121.9021935,37.2402484</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Arbor Park Community</name>
+   <description>899 North King Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 272-1588</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Archer Studios</name>
+   <description>98 Archer Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/archer-street/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 550-8300</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Art Ark</name>
+   <description>1058 S.5th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.artarkapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (877) 259-1439</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Baker Park</name>
+   <description>4748 Campbell Avenue and Fallbrook Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 379-8440</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Barker</name>
+   <description>3825 Barker Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Bella Castello</name>
+   <description>570 Keyes St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/bella-castello/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 289-1122</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Bendorf Drive Apts.</name>
+   <description>282 Danze Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 362-9233</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Betty Anne Gardens</name>
+   <description>945 Lundy Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.bettyanngardens.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Westlake Realty Group, Inc.&lt;br/&gt;Phone Number: (408) 254-4540</description>
+   <Point>
+    <coordinates>-121.8729282,37.3716076</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Blossom River</name>
+   <description>1000 Blossom River Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 979-9442</description>
+   <Point>
+    <coordinates>-121.868406,37.252235</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Branham</name>
+   <description>1579 Branham Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.900962,37.254346</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Bridgeport Apartments</name>
+   <description>3678 Bridgeport Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.communityhousingsv.org&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: C.H.D. PMS&lt;br/&gt;Phone Number: (408) 279-7654</description>
+   <Point>
+    <coordinates>-121.96492,37.30352</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Brookwood Terrace Family Apartments</name>
+   <description>1346 E San Antonio St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/brookwood-terrace/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 279-5700</description>
+   <Point>
+    <coordinates>-121.8616962,37.3449019</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Burning Tree</name>
+   <description>239 Burning Tree, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.7823226,37.2260396</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Calvin</name>
+   <description>3456 Calvin Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.939744,37.2628259</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Canoas Terrace</name>
+   <description>420 Sands Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.fpiliving.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 448-1592</description>
+   <Point>
+    <coordinates>-121.8722586,37.2886438</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Cape Cod Court</name>
+   <description>3680 Cape Cod Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;Not applicable&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: NOI Holdings 20 LP&lt;br/&gt;Phone Number: Not applicable</description>
+   <Point>
+    <coordinates>-121.965007,37.302733</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Capitol Manor</name>
+   <description>175 N. Capitol Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.capitolmanor.net/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: ALTON MANAGEMENT CORPORATION&lt;br/&gt;Phone Number: (408) 251-9132</description>
+   <Point>
+    <coordinates>-121.8395536,37.3662047</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Casa Real</name>
+   <description>2570 Fontaine Rd., San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: KDF Communities LLC&lt;br/&gt;Phone Number: (408) 238-0841</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Catalonia</name>
+   <description>2036 Evans Lane east side, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property-search&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (408) 264-0784</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Chai House II</name>
+   <description>814 St Elizabeth Dr, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 947-1818</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Charter Court Apartments</name>
+   <description>2570 Fontaine Rd., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.mynewplace.com/apartment/charter-court-apartments-san-jose-ca-0gw207628635#property_details&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charter Court SJC LP, a California limited parthership, Owner&lt;br/&gt;Phone Number: (408) 241-1146</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Cherry Creek</name>
+   <description>2020 Southwest Expressway, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.mynewplace.com/apartment/cherry-creek-san-jose-ca-80c000143566&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charter Court SJC LP, a California limited parthership, Owner&lt;br/&gt;Phone Number: (408) 287-6274</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Cinnabar Commons</name>
+   <description>875 Cinnabar St (Stockton Ave@Lenzen Ave), San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: BRIDGE TOWER, LLC&lt;br/&gt;Phone Number: (408) 289-1010</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Clarendon</name>
+   <description>7213 Clarendon St., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 366-2114</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Colonnade</name>
+   <description>201 S 4th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.gkind.com/pages/san-jose-and-santa-cruz#Colonnade&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: G&amp;K Management Company, Inc.&lt;br/&gt;Phone Number: (877) 254-7982</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Corde Terra Village Family</name>
+   <description>2600 Corde Terra Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/corde-terra-village/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 298-9988</description>
+   <Point>
+    <coordinates>-121.8489385,37.3042879</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Cornerstone</name>
+   <description>875 N.10th Street, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (877) 223-5923</description>
+   <Point>
+    <coordinates>-121.8942249,37.357487</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Country Hills Apartments</name>
+   <description>124 Rancho Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 578-8441</description>
+   <Point>
+    <coordinates>-121.8359513,37.2825718</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Courtyard Plaza Apartments</name>
+   <description>2950 Story Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.affordablesearch.com/apartments/Listing.aspx?id=48&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408)Â 929-4221</description>
+   <Point>
+    <coordinates>-121.821784,37.3537191</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Curtner</name>
+   <description>1824 Curtner Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.9181335,37.2771114</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>David Avenue Apartments</name>
+   <description>3068 David Avenue, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: KDF Communities LLC&lt;br/&gt;Phone Number: (408) 374-0411</description>
+   <Point>
+    <coordinates>-121.9487442,37.2972863</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Delmas Park</name>
+   <description>350 Bird Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.delmasparkapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (877) 276-7171</description>
+   <Point>
+    <coordinates>-121.8996838,37.3242903</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Dent Commons</name>
+   <description>5363 Dent Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 267-4230</description>
+   <Point>
+    <coordinates>-121.895682,37.245111</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Don de Dios</name>
+   <description>987 Fair Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/featureddevelopmentdetail/76&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 288-7770</description>
+   <Point>
+    <coordinates>-121.8499798,37.3242702</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Donna</name>
+   <description>1794 Donna Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.9162262,37.2620362</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Eden Palms</name>
+   <description>5398 Monterey Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property-search&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (408) 227-5684</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>El Rancho Verde</name>
+   <description>300 Checkers Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.related.com/ourcompany/properties/49/El-Rancho-Verde-Apartments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Clark Realty Management&lt;br/&gt;Phone Number: (408) 272-0356</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Elena Gardens</name>
+   <description>1900 Lakewood Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/featureddevelopmentdetail/81&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (408) 262-6991</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Emmanuel Terrace</name>
+   <description>460 Francis Drive, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: Emmanuel Terrace Inc.&lt;br/&gt;Phone Number: (408) 923-8280</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Enclave</name>
+   <description>4349 RENAISSANCE DR, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.enclaveapartmenthomes.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Berkshire&lt;br/&gt;Phone Number: (408) 428-9156</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Fairway Glen</name>
+   <description>488 Toyon Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.fairwayglen.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Prime Group&lt;br/&gt;Phone Number: (408) 926-3100</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Fairways at San Antonio</name>
+   <description>305 San Antonio Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://affirmedhousing.com/projects/fairways/index.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Affirmed Housing Group&lt;br/&gt;Phone Number: (408) 923-8424</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ford Road Plaza</name>
+   <description>215 Ford Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property-search&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (510) 582-1460</description>
+   <Point>
+    <coordinates>-121.7963681,37.2538252</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Fountain Plaza</name>
+   <description>190 Ryland Street, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: Legacy Partners&lt;br/&gt;Phone Number: (408) 288-9100</description>
+   <Point>
+    <coordinates>-121.8984925,37.3408512</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Foxchase Drive Apartments</name>
+   <description>1070 Foxchase Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.kcmapts.com/foxchase&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Klingbeil Capital Management Ltd&lt;br/&gt;Phone Number: (408) 723-0600</description>
+   <Point>
+    <coordinates>-121.872915,37.252676</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Foxdale Manor</name>
+   <description>1250 Foxdale Loop, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: KDF Communities LLC&lt;br/&gt;Phone Number: (408) 251-1142</description>
+   <Point>
+    <coordinates>-121.8263741,37.346469</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Fuji Towers</name>
+   <description>690 North 5th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.japantownsanjose.org/fujitowers.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Fuji Towers&lt;br/&gt;Phone Number: (408) 275-8989</description>
+   <Point>
+    <coordinates>-121.8952978,37.3511511</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Giovanni</name>
+   <description>85 S. 5th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/page/2/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 288-7436</description>
+   <Point>
+    <coordinates>-121.8857262,37.3367486</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Gish Apartments</name>
+   <description>35 E. Gish Rd, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.gishapartments.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 436-8972</description>
+   <Point>
+    <coordinates>-121.9093283,37.3621179</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Helzer Court</name>
+   <description>2960 MacIntyre Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/property/helzer-courts/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 264-3237</description>
+   <Point>
+    <coordinates>-121.8649754,37.2840407</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hillsdale Townhomes</name>
+   <description>1626-1656 Hillsdale Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 267-4230</description>
+   <Point>
+    <coordinates>-121.9065972,37.2671444</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hillview Glen</name>
+   <description>3220 Pearl Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property-search&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (408) 723-1644</description>
+   <Point>
+    <coordinates>-121.8704058,37.2774869</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Huff Gardens</name>
+   <description>3021 Huff Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/property/huff-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 557-8699</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Italian Gardens</name>
+   <description>1524 Almaden Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 293-9118</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Julian Gardens</name>
+   <description>319 North 8th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/city/san-jose/page/2/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 295-8440</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Kings Crossing</name>
+   <description>678 North King Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/kings-crossing-apartments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 564-5016</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>La Fenetre</name>
+   <description>705 Northrup Street and Parkmoor Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408)Â 295-2066</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Las Casitas</name>
+   <description>632 N. Jackson Ave., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dkdproperties.com/south%20bay.htm&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: DKD Property Management Company&lt;br/&gt;Phone Number: (408) 251-6850</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Las Ventanas</name>
+   <description>1800 Evans Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 265-9300</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lexington Apartments</name>
+   <description>1350 Lexington Dr., San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: N/A</description>
+   <Point>
+    <coordinates>-121.9553318,37.3006162</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lion Villas</name>
+   <description>2550 S. King Rd., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.lionvillas.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Pap Lion Villas LLC&lt;br/&gt;Phone Number: (408) 274-7983</description>
+   <Point>
+    <coordinates>-121.822826,37.320725</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lucretia Gardens</name>
+   <description>2020 Lucretia Ave., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/property/lucretia-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 295-8440</description>
+   <Point>
+    <coordinates>-121.8468571,37.3195788</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Market Gateway Housing</name>
+   <description>535 S.Market St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.marketgatewayapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (877) 298-7852</description>
+   <Point>
+    <coordinates>-121.8848181,37.3276594</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Masson Building Rehabilitation Project</name>
+   <description>161 West Santa Clara Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;N/A&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: N/A</description>
+   <Point>
+    <coordinates>-121.8933952,37.335044</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Mayfair Court Apartments</name>
+   <description>65 McCreery Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://mayfair.pwapt.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: USA Property Management&lt;br/&gt;Phone Number: (408) 457-3976</description>
+   <Point>
+    <coordinates>-121.8514916,37.3540357</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Mayfair Golden Manor</name>
+   <description>2627 Madden Avenue, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: Mayfair Golden Manor Inc.&lt;br/&gt;Phone Number: (408) 272-1800</description>
+   <Point>
+    <coordinates>-121.841193,37.365752</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Miraido Village Mixed-use Project</name>
+   <description>566 N. 6th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.miraidovillageapartments.com/san-jose-ca-apartments.asp&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Evans Property Management, Inc.&lt;br/&gt;Phone Number: (408) 297-0990</description>
+   <Point>
+    <coordinates>-121.8928305,37.349202</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monte Alban</name>
+   <description>1324 Santee Dr, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/property/monte-alban-apartments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 286-1903</description>
+   <Point>
+    <coordinates>-121.8473747,37.3320692</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monte Vista Gardens</name>
+   <description>2601 Nuestra Castillo Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.jamboreehousing.com/affordable-housing-communities/properties-list/monte-vista-gardens?vwr-type=Partner&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Jamboree Housing Corp&lt;br/&gt;Phone Number: (408) 923-3200</description>
+   <Point>
+    <coordinates>-121.8336278,37.3573829</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monterey Family Apartments</name>
+   <description>2774 Monterey Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.globalpremierdevelopment.com/completed_projects.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Buckingham Property Mgt&lt;br/&gt;Phone Number: (408) 629-5303</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monterey Grove</name>
+   <description>6100 Monterey Rd, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.montereygrove.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: OP Property Management, LP&lt;br/&gt;Phone Number: (408) 600-3271</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Moreland Apartments</name>
+   <description>4375 Payne Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dkdproperties.com/south%20bay.htm&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: DKD Property Management Company&lt;br/&gt;Phone Number: (408) 554-9585</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park I-III</name>
+   <description>75 Rio Robles East, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park Las Palmas- The Redwoods</name>
+   <description>180 Alicante Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park Sycamores</name>
+   <description>70 Descanso Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park The Laurels</name>
+   <description>155 Estancia Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park The Oaks</name>
+   <description>39 Rio Robles East, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park The Oaks II</name>
+   <description>39 Rio Robles East, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates>-121.9424353,37.4066432</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>North Park The Pines</name>
+   <description>70 Descanso Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.irvinecompanyapartments.com/communities/north-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Irvine Management Company&lt;br/&gt;Phone Number: (844) 326-3934</description>
+   <Point>
+    <coordinates>-121.9394557,37.4063858</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Oak Tree Village</name>
+   <description>100 Branham Lane East, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 224-2517</description>
+   <Point>
+    <coordinates>-121.821391,37.26856</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ohlone Chynoweth Commons</name>
+   <description>5300 Terner Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property/ohlone-chynoweth-commons&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (408) 265-9374</description>
+   <Point>
+    <coordinates>-121.8622137,37.2577751</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Ohlone Court</name>
+   <description>5225 Terner Way and Winfield Boulevard, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.bridgehousing.com/properties/family/santa-clara/san-jose/ohlone&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Seven Hills Properties&lt;br/&gt;Phone Number: (408) 264-5985</description>
+   <Point>
+    <coordinates>-121.8676917,37.246838</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Orvieto Family Apartments</name>
+   <description>80 Montecito Vista Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/orvieto-family-apartments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 224-5609</description>
+   <Point>
+    <coordinates>-121.8520573,37.2915063</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Parkside Glen</name>
+   <description>810 Hillsdale Avenue and Pearl Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.parksideglen.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: The Related Company&lt;br/&gt;Phone Number: (408) 264-8291</description>
+   <Point>
+    <coordinates>-121.871725,37.2778548</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Parkside Terrace</name>
+   <description>463 Wooster Ave, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: AFFORDABLE HOUSING ACCESS, INC.&lt;br/&gt;Phone Number: (949) 253-3120</description>
+   <Point>
+    <coordinates>-121.872628,37.354284</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Parkview Family</name>
+   <description>360 Meridian Avenue and San Carlos Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/apartmentdetail/20&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 995-0989</description>
+   <Point>
+    <coordinates>-121.9137528,37.3234412</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Paseo Senter I</name>
+   <description>1898, 1908 Senter Rd, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/paseo-senter/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 947-9100</description>
+   <Point>
+    <coordinates>-121.8534309,37.3146858</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Paseo Senter II</name>
+   <description>1896 Senter Rd, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/paseo-senter/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 947-9100</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Paula Street</name>
+   <description>801 Paula Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;Not applicable&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Westlake Realty Group, Inc.&lt;br/&gt;Phone Number: (408) 287-7844</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Pinmore Gardens</name>
+   <description>1696 Branham Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/property/pinmore-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 264-3108</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Plaza Maria</name>
+   <description>115 East Reed Street and Third Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dbarchitect.com/project_detail/49/Plaza%20Maria.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Mercy Housing California III, L.P.&lt;br/&gt;Phone Number: (408) 293-5253</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Poco Way</name>
+   <description>1900 Poco Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/properties/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 923-2099</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Raintree</name>
+   <description>1058 S. Winchester, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.raintreesanjose.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: PinnacleAMS&lt;br/&gt;Phone Number: (855) 493-8290</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Regency Apartments</name>
+   <description>1315 Eden Ave, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 378-1970</description>
+   <Point>
+    <coordinates>-121.9547325,37.3010899</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Rincon De Los Esteros</name>
+   <description>1780 Old Oakland Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.losesteros.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 437-1303</description>
+   <Point>
+    <coordinates>-121.8980262,37.3865795</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Roewill</name>
+   <description>1059 Roewill Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.9725481,37.3068453</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Rosemary Family</name>
+   <description>66 E ROSEMARY ST, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/1st-and-rosemary-family/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 606-8098</description>
+   <Point>
+    <coordinates>-121.906679,37.36034</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>San Jose Apartments</name>
+   <description>1500 Cunningham Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.dkdproperties.com/south%20bay.htm&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: DKD Property Management Company&lt;br/&gt;Phone Number: (408) 272-3311</description>
+   <Point>
+    <coordinates>-121.8367062,37.3251513</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>San Jose Gardens</name>
+   <description>4668 Albany Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.gkind.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: G&amp;K Management Company, Inc.&lt;br/&gt;Phone Number: (408) 248-0800</description>
+   <Point>
+    <coordinates>-121.985238,37.319847</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Santa Familia</name>
+   <description>4984 Severance Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 448-2946</description>
+   <Point>
+    <coordinates>-121.8600622,37.2625515</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>St. Claire Apartments</name>
+   <description>301 S.First Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.stclaireapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Sainte Claire Apartment Homes&lt;br/&gt;Phone Number: (408) 499-2229</description>
+   <Point>
+    <coordinates>-121.8872361,37.3312514</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Stonegate</name>
+   <description>4401 Renaissance Drive, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: ConAm Management&lt;br/&gt;Phone Number: (408) 922-7255</description>
+   <Point>
+    <coordinates>-121.9602982,37.4123946</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Summer Breeze</name>
+   <description>200 Lewis Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/summer-breeze/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 362-9011</description>
+   <Point>
+    <coordinates>-121.8442967,37.2921886</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Sunset Square</name>
+   <description>2080 Alum Rock Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/sunset-square-apartments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 550-8300</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Taylor Oaks Apartments</name>
+   <description>2726-2738 Kollmar, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.tayloroaksapartments.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 926-3177</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Terramina Square</name>
+   <description>410 North White Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 259-8105</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>The Grove</name>
+   <description>510 Branham Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.communityhousingsv.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: C.H.D. PMS&lt;br/&gt;Phone Number: (408) 279-7677</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Third Street Apartments</name>
+   <description>1010 S. 3rd Street, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: N/A</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Thornbridge</name>
+   <description>5210 Monterey Rd., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.thornbridgeapartments.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: ConAm Management&lt;br/&gt;Phone Number: (408) 226-6500</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Tierra Encantada</name>
+   <description>1918 Alum Rock Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.communityhousingsv.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 926-8082</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Town Park Towers</name>
+   <description>60 North 3rd Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.ncphs.org/affordable-housing/town-park-towers-san-jose&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Northern California Presbyterian Homes &amp; Services&lt;br/&gt;Phone Number: (408) 288-8750</description>
+   <Point>
+    <coordinates>-121.8888064,37.3381026</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Trestles Apartments</name>
+   <description>1566 Scott St., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.trestles-apts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Fairfield Trestles L.P.&lt;br/&gt;Phone Number: (408) 293-2727</description>
+   <Point>
+    <coordinates>-121.9197676,37.3193413</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Troy Apartments</name>
+   <description>714 S ALMADEN AVE, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.firsthousing.com/contact/rental/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 287-7844</description>
+   <Point>
+    <coordinates>-121.885272,37.323807</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Turnleaf</name>
+   <description>3201 Loma Verde Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.turnleaf-apts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Fairfield Residential LLC&lt;br/&gt;Phone Number: (408) 378-9138</description>
+   <Point>
+    <coordinates>-121.9533789,37.2990243</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Valley Palms Apartments</name>
+   <description>2245 Lanai Ave., San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: KDF Communities LLC&lt;br/&gt;Phone Number: (408) 251-2746</description>
+   <Point>
+    <coordinates>-121.832935,37.322434</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vendome Apartments/San Pedro Square Apts.</name>
+   <description>155 W. Santa Clara St., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;N/A&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 817-9435</description>
+   <Point>
+    <coordinates>-121.8932955,37.3351208</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Verandas</name>
+   <description>1868 North Capitol Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 263-8770</description>
+   <Point>
+    <coordinates>-121.880069,37.403021</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Monterey</name>
+   <description>2898 Villa Monterey, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: VPM Management Inc.&lt;br/&gt;Phone Number: (408) 365-9200</description>
+   <Point>
+    <coordinates>-121.8436966,37.2961238</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Savannah</name>
+   <description>4511 Renaissance Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.winnco.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: WinnResidential&lt;br/&gt;Phone Number: (408) 922-9980</description>
+   <Point>
+    <coordinates>-121.958768,37.4112323</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Solera</name>
+   <description>1385 Lucretia Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 975-0581</description>
+   <Point>
+    <coordinates>-121.854097,37.3256648</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Torino</name>
+   <description>29 West Julian Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.villatorinoapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Woodmont&lt;br/&gt;Phone Number: (408) 294-3000</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Torre I</name>
+   <description>955 S 6th St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 292-4600</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Torre II</name>
+   <description>955 S 6th St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;www.caremgt.com&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 292-4600Â </description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Village @ Museum Park</name>
+   <description>465 W San Carlos St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.essexapartmenthomes.com/california/san-francisco-bay-area/san-jose/museum-park&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Essex&lt;br/&gt;Phone Number: (866) 547-5813</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vintage Tower</name>
+   <description>235 East Santa Clara St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.vintagetower.freeservers.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: AMC&lt;br/&gt;Phone Number: (408) 297-4705</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vivente II</name>
+   <description>5347 Dent Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 448-2946</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Waterford Place</name>
+   <description>1700 N 1st Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.essexapartmenthomes.com/apartment/waterford-place-san-jose-ca-4p05i6585075&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Essex&lt;br/&gt;Phone Number: (408) 335-0155</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Willow Creek</name>
+   <description>925 Willowleaf Dr, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://willowcreeksanjose.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Greystar&lt;br/&gt;Phone Number: (877) 959-3369</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Willow Lake</name>
+   <description>1331 Lakeshore Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.essexapartmenthomes.com/apartment/willow-lake-san-jose-ca-301608561068&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Essex&lt;br/&gt;Phone Number: (877) 698-6090</description>
+   <Point>
+    <coordinates>-121.8930576,37.3845114</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Willows Apartments</name>
+   <description>894 Paula Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/properties/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 280-6389</description>
+   <Point>
+    <coordinates>-121.9075011,37.3138345</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>YWCA Third Street</name>
+   <description>375 South 3rd Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.ywca-sv.org/contact/index.php&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Seven Hills Properties&lt;br/&gt;Phone Number: (408) 295-4011 ext. 200</description>
+   <Point>
+    <coordinates>-121.8845554,37.3314888</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Arbor Terraces</name>
+   <description>2760 McKee Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/arbor-terraces.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 251-7570</description>
+   <Point>
+    <coordinates>-121.8413409,37.3706508</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Avenida Espana Gardens</name>
+   <description>181 Rawls Ct., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/property/avenida-espaa-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 972-5529</description>
+   <Point>
+    <coordinates>-121.7691576,37.2227724</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Belovida Apartments</name>
+   <description>1777 Newbury Park, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.belovidanewburypark.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (408) 263-8484</description>
+   <Point>
+    <coordinates>-121.867343,37.3665838</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Brooks House Senior</name>
+   <description>655 Richmond Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.corpforbetterhousing.com/county_santaclara2.php&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Beacon Property Management, Inc&lt;br/&gt;Phone Number: (408) 288-6108</description>
+   <Point>
+    <coordinates>-121.923123,37.3151369</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Carlton Plaza</name>
+   <description>380 Branham Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.carltonseniorliving.com/locations/carlton-plaza-san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Carlton Plaza of San Jose&lt;br/&gt;Phone Number: (408) 972-1400</description>
+   <Point>
+    <coordinates>-121.8456922,37.2650529</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Casa del Pueblo</name>
+   <description>200 S. Market Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.barcelonseniorliving.com/p/senior_apartment/contact_us_5842/san-jose-ca-95113/casa-del-pueblo-5842?fullsite=1&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Barcelon Associates Management&lt;br/&gt;Phone Number: (408) 294-5380</description>
+   <Point>
+    <coordinates>-121.8886275,37.3318525</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Chai House I</name>
+   <description>814 St Elizabeth Dr, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.chaihouse.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 947-1818</description>
+   <Point>
+    <coordinates>-121.9149421,37.3098571</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Corde Terra Village Senior</name>
+   <description>2600 Corde Terra Circle, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/corde-terra-village/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 298-9988</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Craig Gardens Apartments</name>
+   <description>2580 South Bascom, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.firsthousing.com/contact/rental/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Westlake Realty Group, Inc.&lt;br/&gt;Phone Number: (408) 559-1907</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Cypress Gardens Senior</name>
+   <description>3555 Judro Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://jscohacsc.com/property/cypress-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 248-1442</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>De Rose Gardens</name>
+   <description>1401 DeRose Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/property/derose-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 993-0449</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>El Parador Senior</name>
+   <description>2565 South Bascom Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://jscohacsc.com/property/el-parador/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 626-9262</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Gadberry Court</name>
+   <description>2557 Alum Rock Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/gadberry-courts/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 928-2750</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Girasol Seniors</name>
+   <description>1710 Alum Rock Ave., San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 926-8140</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hacienda Creek Senior</name>
+   <description>399 East Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/hacienda-creek/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 885-0551</description>
+   <Point>
+    <coordinates>-121.8696025,37.3559057</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hilltop Manor</name>
+   <description>790 Ironwood Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.hilltopmanor.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: HIlltop Manor, Inc.&lt;br/&gt;Phone Number: (408) 267-2929</description>
+   <Point>
+    <coordinates>-121.8713043,37.285492</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Japantown Seniors</name>
+   <description>685 North 6th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.firsthousing.com/cat/developments/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: (408) 291-8650</description>
+   <Point>
+    <coordinates>-121.8944233,37.3509784</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Jardines Paloma Blanca</name>
+   <description>132 North Jackson Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;Not applicable&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 937-4781</description>
+   <Point>
+    <coordinates>-121.8455245,37.3619378</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Jeanne D'Arc Manor</name>
+   <description>85 S. 5th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://jsco.net/property/jeanne-darc-manor/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 288-7421</description>
+   <Point>
+    <coordinates>-121.8857262,37.3367486</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Las Golondrinas</name>
+   <description>77 KENTUCKY PL,, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management, Inc.&lt;br/&gt;Phone Number: (408) 937-1135</description>
+   <Point>
+    <coordinates>-121.8528387,37.3529059</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Le Mirador</name>
+   <description>1191 Coleman Road and Almaden Expressway, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/le-mirador.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 268-9310</description>
+   <Point>
+    <coordinates>-121.8748206,37.2426515</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lenzen Gardens Senior</name>
+   <description>893 Lenzen Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://jscohacsc.com/property/lenzen-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 295-8440</description>
+   <Point>
+    <coordinates>-121.9125209,37.33507</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Mabuhay</name>
+   <description>270 E. Empire Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.bridgehousing.com/properties/senior/santa-clara/san-jose/mabuhay&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Seven Hills Properties&lt;br/&gt;Phone Number: (408) 885-0448</description>
+   <Point>
+    <coordinates>-121.8908237,37.3475195</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Meadows</name>
+   <description>513 East Branham Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.communityhousingsv.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: C.H.D. PMS&lt;br/&gt;Phone Number: (408) 279-7677</description>
+   <Point>
+    <coordinates>-121.807262,37.2673879</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Miranda Villa</name>
+   <description>2094 Forest Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/miranda-villa.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 295-5581</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monte Vista Gardens Sr. Housing I</name>
+   <description>2605 La Hacienda Ct and S.Capitol Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/monte-vista-senior-i/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 928-2750</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monte Vista Gardens Sr. Housing II</name>
+   <description>2600 Nuestra Castillo Ct and Capitol Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://www.jamboreehousing.com/affordable-housing-communities/properties-list/monte-vista-gardens?vwr-type=Partner http://fpihacsc.com/property/morrone-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 928-2750</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Morrone Gardens</name>
+   <description>1107 Luchessi Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://fpihacsc.com/properties/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 723-4118</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Oak Circle</name>
+   <description>1410 Roberts Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.bridgehousing.com/properties/senior/santa-clara/san-jose/oak-circle&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Seven Hills Properties&lt;br/&gt;Phone Number: (408) 971-9099</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Oaks of Almaden</name>
+   <description>5050 Russo Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/oaks-of-almaden/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 265-7248</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Palm Court Seniors</name>
+   <description>1200 Lick Avenue near Humboldt Street and Palm Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.thepalmcourtapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 287-6620</description>
+   <Point>
+    <coordinates>-121.8850591,37.3172959</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Parkview Seniors</name>
+   <description>355 Race Street and San Carlos Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/featureddevelopmentdetail/64&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 287-1860</description>
+   <Point>
+    <coordinates>-121.9113905,37.3234443</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Plaza Del Sol</name>
+   <description>1380 Blossom Hill Road and Waltrip Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/plaza-del-sol.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 264-0900</description>
+   <Point>
+    <coordinates>-121.8891385,37.2438857</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Quail Hills Sr.</name>
+   <description>1260 Piedmont Road and Sierra Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/qual-hills.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 926-4250</description>
+   <Point>
+    <coordinates>-121.8469492,37.3997923</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Rose Garden Seniors</name>
+   <description>3071 Rose Ave, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/rose-gardens/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 928-2750</description>
+   <Point>
+    <coordinates>-121.8282481,37.3644922</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Rosemary Seniors</name>
+   <description>60 E. Rosemary, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/1st-and-rosemary-family/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 606-8098</description>
+   <Point>
+    <coordinates>-121.9070472,37.3604611</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>San Carlos Senior</name>
+   <description>1523 West San Carlos St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/apartmentdetail/116&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (408) 380-4087</description>
+   <Point>
+    <coordinates>-121.9183709,37.3236097</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Shiraz Senior</name>
+   <description>1295 McLaughlin Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.roemcorp.com/projects/shiraz-senior-housing/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: FPI Management&lt;br/&gt;Phone Number: (408) 928-2750</description>
+   <Point>
+    <coordinates>-121.8530119,37.3297798</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Sienna Senior</name>
+   <description>1496 Almaden Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/sienna.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 971-9640</description>
+   <Point>
+    <coordinates>-121.877657,37.311724</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Summercrest Villas</name>
+   <description>1725 Almaden Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.laspalmashousing.com/summercrest-villas/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: ConAm Management&lt;br/&gt;Phone Number: (408) 264-2900</description>
+   <Point>
+    <coordinates>-121.8796701,37.3031669</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa de Guadalupe</name>
+   <description>2151 Plaza de Guadalupe, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.villadeguadalupeapts.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: AMC-CA, Inc.&lt;br/&gt;Phone Number: (408) 251-2955</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villa Hermosa</name>
+   <description>1640 Hermocilla Way, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;https://jscohacsc.com/property/villa-hermosa/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 926-9662</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Villaggio Sr.</name>
+   <description>2855 The Villages Pkwy, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.caremgt.com/villaggio.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: California Management Company, LLC&lt;br/&gt;Phone Number: (408) 270-7040</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vista Park Sr. I</name>
+   <description>3955 Vista Park Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/apartmentdetail/103&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 264-6661</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vista Park Sr. II</name>
+   <description>3955 Vista Park Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/apartmentdetail/103&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (408) 264-6661</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Willow Glen Sr.</name>
+   <description>465 WILLOW GLEN WAY, San Jose, CA&lt;br/&gt;Property Website: No website&lt;br/&gt;Management Company: The Related Company&lt;br/&gt;Phone Number: (408) 459-7809</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Casa Feliz Studios</name>
+   <description>525 S.9th St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.casafelizapartments.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 516-4776</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Creekview Inn</name>
+   <description>965 Lundy Avenue south of Beryessa Rd, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.firsthousing.com/contact/rental/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Westlake Realty Group, Inc.&lt;br/&gt;Phone Number: (408) 254-4540</description>
+   <Point>
+    <coordinates>-121.8863286,37.3382082</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Curtner Gardens</name>
+   <description>701 Curtner Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.curtnerstudios.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 265-4249</description>
+   <Point>
+    <coordinates>-121.8753982,37.2932004</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Edenvale Special Needs</name>
+   <description>5340 Monterey Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property/edenvale-special-needs&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (408) 224-5080</description>
+   <Point>
+    <coordinates>-121.8051837,37.257587</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Fourth Street Apartments</name>
+   <description>1460 N.4th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.fourthstreetapts.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 451-9054</description>
+   <Point>
+    <coordinates>-121.9078475,37.3666963</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hester Apartments</name>
+   <description>1759 Hester Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;N/A&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Innvision - The Way Home&lt;br/&gt;Phone Number: N/A</description>
+   <Point>
+    <coordinates>-121.92542,37.324663</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hoffman - 5629</name>
+   <description>5629 Hoffman Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.880591,37.2482309</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hoffman - 5668</name>
+   <description>5668 Hoffman Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.880652,37.24722</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Hoffman - 5684</name>
+   <description>5684 Hoffman Court, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.abodeservices.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Abode Services&lt;br/&gt;Phone Number: (408) 941-1850</description>
+   <Point>
+    <coordinates>-121.88168,37.248041</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Homebase</name>
+   <description>865 Calhoun St., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;Not applicable&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: John Stewart Company&lt;br/&gt;Phone Number: (408) 713-2618</description>
+   <Point>
+    <coordinates>-121.872567,37.343919</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Homeport</name>
+   <description>5030 Union Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 279-2706</description>
+   <Point>
+    <coordinates>-121.930812,37.244176</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Homesafe</name>
+   <description>70 Kentucky Place, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/home-safe-san-jose/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 251-8064</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Lenzen Housing</name>
+   <description>790 Lenzen Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.eahhousing.org/pages/apartmentdetail/44&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH,Inc.&lt;br/&gt;Phone Number: (408) 286-9595</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Milagro</name>
+   <description>2850 Rose Avenue, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 272-1588</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Monterey Villa</name>
+   <description>215 Ford Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.edenhousing.org/property/monterey-villa&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Eden Housing Management&lt;br/&gt;Phone Number: (510) 582-1460</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Montgomery Street</name>
+   <description>358 North Montgomery Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://lifemoves.org/locations/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Innvision The Way Home&lt;br/&gt;Phone Number: (408) 271-5160</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Peacock Commons</name>
+   <description>3661 Peacock Ct., San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.billwilsoncenter.org/news_events/peacock_commons.html&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Not applicable&lt;br/&gt;Phone Number: (408) 971-9822</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Pensione Esperanza</name>
+   <description>598 Columbia Avenue (and Bird Ave), SJ, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://charitieshousing.org/pensione-esperanza/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Charities Housing Management&lt;br/&gt;Phone Number: (408) 920-0811</description>
+   <Point>
+    <coordinates></coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Pollard Plaza</name>
+   <description>1178 McLaughlin near Story Road, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.thepollardplaza.com/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: EAH Management&lt;br/&gt;Phone Number: (877) 715-4431</description>
+   <Point>
+    <coordinates>-121.8341258,37.3460817</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Sobrato House</name>
+   <description>496 S. Third St, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.homefirstscc.org/our-programs-2/programs-for-youth/sobrato-house-youth-center/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: HomeFirst&lt;br/&gt;Phone Number: (408) 539-2180</description>
+   <Point>
+    <coordinates>-121.8827433,37.3298955</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>The Villa</name>
+   <description>184 South 11th Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://lifemoves.org/locations/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Innvision The Way Home&lt;br/&gt;Phone Number: (408) 271-0685</description>
+   <Point>
+    <coordinates>-121.8774372,37.3382787</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Unity Place I</name>
+   <description>917 Northrup Street, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://www.unitycare.org/&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: Western Property Groupq&lt;br/&gt;Phone Number: (408) 971-9822</description>
+   <Point>
+    <coordinates>-121.908401,37.3122828</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Unity Place II</name>
+   <description>109, 115 Roundtable Drive, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;N/A&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: N/A&lt;br/&gt;Phone Number: N/A</description>
+   <Point>
+    <coordinates>-121.806696,37.261068</coordinates>
+   </Point>
+  </Placemark>
+  <Placemark>
+   <name>Vivente I</name>
+   <description>2400 Enborg Lane, San Jose, CA&lt;br/&gt;Property Website: &lt;a href=&quot;http://property.midpen-housing.org/PropertySearch&quot;&gt;Link&lt;/a&gt;&lt;br/&gt;Management Company: MidPen Property Management Corporation&lt;br/&gt;Phone Number: (408) 279-2706</description>
+   <Point>
+    <coordinates>-121.9343333,37.3109406</coordinates>
+   </Point>
+  </Placemark>
+ </Document>
+</kml>
