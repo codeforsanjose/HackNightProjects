@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MV Senior Center Open?</title>
+</head>
+<body>
+  <script type="text/javascript">
+    function getMVSeniorCenterStatus() {
+      //  Assumption - timezone of client is PST - no adjustment made.
+      var currentDate = new Date();
+      var startOpen = new Date();
+      startOpen.setMilliseconds(0);
+      startOpen.setSeconds(0);
+      var endOpen = new Date();
+      endOpen.setMilliseconds(0);
+      endOpen.setSeconds(0);
+
+      // 0 is Sunday for day of week
+      switch (currentDate.getDay()) {
+        // From http://mountainview.gov/depts/cs/rec/senior/default.asp (HTML w/ times generated server side)
+        // Open 8:30 AM to 9:00 PM Mon -> Wed
+          case 1:
+          case 2:
+          case 3:
+            startOpen.setHours(8);
+            startOpen.setMinutes(30);
+            endOpen.setHours(21);
+            endOpen.setMinutes(0);
+          break;
+       // Open 8:30 AM to 5:00 PM Thurs -> Fri
+          case 4:
+          case 5:
+            startOpen.setHours(8);
+            startOpen.setMinutes(30);
+            endOpen.setHours(17);
+            endOpen.setMinutes(0);
+          break;
+       // Closed over the weekend :(
+          default:
+            startOpen = undefined;
+            endOpen = undefined;
+      }
+
+      if ( startOpen && currentDate > startOpen && currentDate < endOpen ) {
+        return "Open";
+      }
+
+      return "Closed";
+    }
+
+    function sleep(fn, ms) {
+      window.setTimeout(fn, ms);
+    }
+
+    function displayAndPollMVSeniorCenterStatus() {
+      document.body.innerHTML =
+      "<h1>The Mountain View, CA Senior Center is Now OPEN_STATUS</h1>\
+       <p>Checked on CURRENT_DATE</p>"
+       .replace(/OPEN_STATUS/, getMVSeniorCenterStatus())
+       .replace(/CURRENT_DATE/, new Date());
+
+       sleep(displayAndPollMVSeniorCenterStatus, 10000) // Update status every 10 seconds
+    }
+
+    displayAndPollMVSeniorCenterStatus();
+  </script>
+</body>
+</html>
